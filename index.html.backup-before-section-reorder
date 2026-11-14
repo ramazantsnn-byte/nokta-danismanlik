@@ -1,0 +1,4509 @@
+<!DOCTYPE html>
+<html lang="tr" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nokta Tapu Takip Danışmanlık | Ataşehir, İstanbul — Veraset, İntikal & Tapu Süreçleri</title>
+<meta name="description" content="Ataşehir merkezli bağımsız danışmanlık işletmesi. Tapu işlem takibi, veraset ve tapu intikali, miras taksimi, belediye ve vergi dairesi evrak takibi. Danışmanlar: Batuhan AVCI & Hüseyin ÇETİN — 0553 852 53 08 / 0507 913 18 82">
+<meta name="keywords" content="Nokta tapu takip, Ataşehir intikal işlemleri, veraset intikal danışmanlığı, tapu devir takibi, miras taksimi, belediye rayiç bedel, Ataşehir tapu">
+<meta name="author" content="Nokta Tapu Takip Danışmanlık">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://noktataputakip.com.tr">
+
+<!-- Geo / Local SEO Meta Tags -->
+<meta name="geo.region" content="TR-34">
+<meta name="geo.placename" content="Ataşehir, İstanbul">
+<meta name="geo.position" content="40.9744;29.1065">
+<meta name="ICBM" content="40.9744, 29.1065">
+
+<!-- Open Graph / Social -->
+<meta property="og:locale" content="tr_TR">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Nokta Tapu Takip Danışmanlık — Ataşehir, İstanbul">
+<meta property="og:description" content="Tapu sürecinizde ne sırada olduğunu bilin. Açık bilgi, net adımlar ve şeffaf dosya takibi.">
+<meta property="og:image" content="assets/logo.jpg">
+<meta property="og:url" content="https://noktataputakip.com.tr">
+
+<link rel="icon" type="image/png" href="assets/emblem.png">
+
+<!-- Google Fonts (Editorial Boutique Standard: DM Serif Display + DM Sans) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=DM+Serif+Display:ital@0;1&family=Plus+Jakarta+Sans:ital,wght@0,400;0,600;0,700;0,800;1,700;1,800&display=swap" rel="stylesheet">
+
+<!-- Complete Schema.org Markup (ProfessionalService & FAQPage) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://noktataputakip.com.tr/#organization",
+      "name": "Nokta Tapu Takip Danışmanlık",
+      "url": "https://noktataputakip.com.tr",
+      "logo": "https://noktataputakip.com.tr/assets/logo.jpg",
+      "image": "https://noktataputakip.com.tr/assets/logo.jpg",
+      "founders": [
+        {
+          "@type": "Person",
+          "name": "Batuhan AVCI",
+          "jobTitle": "Süreç Danışmanı",
+          "telephone": "+905538525308"
+        },
+        {
+          "@type": "Person",
+          "name": "Hüseyin ÇETİN",
+          "jobTitle": "Süreç Danışmanı",
+          "telephone": "+905079131882"
+        }
+      ],
+      "telephone": "+905538525308",
+      "alternateTelephone": "+905079131882",
+      "email": "bstaputakip@gmail.com",
+      "priceRange": "₺₺",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "İçerenköy Mah. Değirmen Yolu Cad. No:27B",
+        "addressLocality": "Ataşehir",
+        "addressRegion": "İstanbul",
+        "postalCode": "34752",
+        "addressCountry": "TR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 40.9744,
+        "longitude": 29.1065
+      },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "opens": "08:30",
+        "closes": "18:30"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://noktataputakip.com.tr/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Tapu takip danışmanlığı ne sağlar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nokta, tapu dosyanızın işlem türüne göre evrak hazırlığı ve takip adımlarını planlamanıza destek olur. Üstleneceğimiz hizmet kapsamı, sorumluluklar ve bedel işe başlamadan netleştirilir. Başvuru kararı ve resmî sonuç ilgili kurumun yetkisindedir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Veraset ve tapu intikal işlemlerinde yardımcı oluyor musunuz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Evet. Veraset ve tapu intikali dosyanız için evrak ve kurum adımlarını birlikte değerlendiriyor, anlaşılan kapsamda takip desteği sunuyoruz. Miras payı konusunda hukuki değerlendirme veya mirasçılar arasında anlaşmazlık varsa avukata başvurulmalıdır."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Görüşme öncesinde ne hazırlamalıyım?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Öncelikle işlem türünü, taşınmazın bulunduğu il/ilçeyi ve mevcut aşamayı bilmeniz yeterlidir. Hassas belgelerinizi, kimlik numaranızı veya e-Devlet şifrenizi ilk iletişimde paylaşmayın."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+<style>
+/* ========================================================
+   2035 LUMINOUS SPATIAL DESIGN SYSTEM (LIGHT TITANIUM)
+   Ultra-clean crisp palette, frosted glass, liquid metal accents
+   Designed for Nokta Tapu Takip Danışmanlık
+======================================================== */
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --paper: #F8FAFC;
+  --paper-strong: #F1F5F9;
+  --cream: #FFFFFF;
+  --ink: #0F172A;
+  --ink-soft: #334155;
+  --quiet: #64748B;
+  --line: #E2E8F0;
+  --line-subtle: #F1F5F9;
+  --red: #E11D48;
+  --red-deep: #BE123C;
+  --red-soft: #FFE4E6;
+  --red-glow: rgba(225, 29, 72, 0.22);
+  --cyan-accent: #0EA5E9;
+  --gold: #D97706;
+  --radius-xl: 20px;
+  --radius-lg: 16px;
+  --radius-md: 10px;
+  --radius-sm: 6px;
+  --font-body: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-serif: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --transition: all 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+  --glass-card: rgba(255, 255, 255, 0.9);
+  --glass-border: rgba(255, 255, 255, 0.95);
+  --glass-shadow: 0 16px 36px -10px rgba(15, 23, 42, 0.07);
+}
+
+html {
+  font-size: 15px;
+  scroll-behavior: smooth;
+  background-color: var(--paper);
+}
+
+body {
+  font-family: var(--font-body);
+  background-color: var(--paper);
+  background-image: 
+    radial-gradient(circle at 50% -10%, rgba(225, 29, 72, 0.05) 0%, rgba(14, 165, 233, 0.03) 40%, transparent 70%),
+    radial-gradient(circle at 100% 30%, rgba(225, 29, 72, 0.02) 0%, transparent 35%);
+  color: var(--ink);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Layout Utilities */
+.site-width {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 28px;
+  position: relative;
+}
+
+.content-section {
+  padding: 85px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.text-center { text-align: center; }
+
+/* Typography */
+h1, h2, h3, h4 {
+  color: var(--ink);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.serif-title {
+  font-family: var(--font-serif);
+  font-weight: 800; letter-spacing: -0.03em;
+  line-height: 1.15;
+}
+
+.eyebrow {
+  display: inline-block;
+  font-size: 0.73rem;
+  font-weight: 800;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--red);
+  margin-bottom: 14px;
+}
+
+.section-head {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 3.8vw, 3rem);
+  font-weight: 800; letter-spacing: -0.035em;
+  line-height: 1.18;
+  margin-bottom: 16px;
+  color: var(--ink);
+}
+
+.section-sublead {
+  font-size: 1.05rem;
+  color: var(--ink-soft);
+  max-width: 660px;
+  margin: 0 auto 45px;
+  line-height: 1.7;
+}
+
+/* Buttons */
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 13px 26px;
+  border-radius: var(--radius-md);
+  font-weight: 700;
+  font-size: 0.92rem;
+  text-decoration: none;
+  cursor: pointer;
+  transition: var(--transition);
+  border: 1px solid transparent;
+  outline: none;
+}
+
+.button-red {
+  background: var(--red);
+  color: #FFF !important;
+}
+
+.button-red:hover {
+  background: var(--red-deep);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px var(--red-glow);
+}
+
+.button-wa {
+  background: #25D366;
+  color: #FFF !important;
+}
+
+.button-wa:hover {
+  background: #1EBE5D;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(37, 211, 102, 0.3);
+}
+
+.button-outline {
+  background: transparent;
+  border-color: var(--line);
+  color: var(--ink);
+}
+
+.button-outline:hover {
+  background: var(--paper-strong);
+  border-color: var(--ink-soft);
+}
+
+/* ========================================================
+   TOP STRIP & HEADER
+======================================================== */
+.top-strip {
+  background: var(--ink);
+  color: #EFEEE9;
+  font-size: 0.72rem;
+  letter-spacing: 0.16em;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.top-strip-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.top-strip-phones {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.top-strip-phones a {
+  color: #EFEEE9;
+  text-decoration: none;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  transition: var(--transition);
+}
+
+.top-strip-phones a:hover {
+  color: #FFF;
+  text-decoration: underline;
+}
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: rgba(246, 245, 242, 0.96);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  transition: var(--transition);
+}
+
+.header-inner {
+  min-height: 82px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+.brand-link {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+}
+
+.brand-logo-img {
+  height: 48px;
+  width: auto;
+  object-fit: contain;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  list-style: none;
+}
+
+.header-nav a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  font-size: 0.92rem;
+  font-weight: 600;
+  transition: var(--transition);
+}
+
+.header-nav a:hover {
+  color: var(--red);
+}
+
+.mobile-toggle-btn {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+/* ========================================================
+   HERO SECTION
+======================================================== */
+.hero-wrap {
+  padding: 70px 0 65px;
+  background: var(--paper);
+  border-bottom: 1px solid var(--line);
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 36px;
+  align-items: stretch;
+  width: 100%;
+}
+
+.hero-left-copy {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.hero-kicker-tag {
+  font-family: 'Plus Jakarta Sans', var(--font-body);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #64748B;
+  margin-bottom: 8px;
+}
+
+.hero-h1 {
+  font-family: 'Plus Jakarta Sans', var(--font-body);
+  font-size: clamp(1.95rem, 2.5vw, 2.6rem);
+  font-weight: 800;
+  color: #0F172A;
+  line-height: 1.18;
+  letter-spacing: -0.035em;
+  margin-bottom: 14px;
+  min-height: 2.4em;
+}
+
+.hero-h1-static {
+  display: block;
+  color: #0F172A;
+}
+
+.hero-h1-typewriter {
+  display: inline-block;
+  color: #0F172A;
+  position: relative;
+}
+
+.typewriter-cursor {
+  display: inline-block;
+  font-weight: 300;
+  color: #E11D48;
+  margin-left: 2px;
+  animation: blinkTypeCursor 0.75s infinite;
+  vertical-align: baseline;
+  user-select: none;
+}
+
+@keyframes blinkTypeCursor {
+  0%, 45% { opacity: 1; }
+  50%, 95% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+/* ========================================================
+   VISUAL DUAL CANVAS (HERO LEFT: STATIC CARDS, SILKY INNER DISSOLVE)
+======================================================== */
+.visual-dual-canvas {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+  flex: 1;
+  position: relative;
+}
+
+.dual-story-stage {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  width: 100%;
+  flex: 1;
+}
+
+.visual-card-world {
+  border-radius: var(--radius-lg);
+  padding: 14px 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  overflow: hidden;
+  height: 318px;
+  box-sizing: border-box;
+}
+
+.card-inner-fade-stage {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  opacity: 1;
+  transition: opacity 0.38s ease-in-out;
+  box-sizing: border-box;
+}
+
+.card-inner-fade-stage.fading-out {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.card-story-slide {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.visual-card-world:hover {
+  transform: translateY(-3px);
+}
+
+/* 1. CHAOS WORLD (Geleneksel Çile) */
+.world-chaos {
+  background: linear-gradient(180deg, #FFF5F5 0%, #FEF2F2 100%);
+  border: 1px solid #FECACA;
+  box-shadow: 0 10px 24px -8px rgba(239, 68, 68, 0.12);
+}
+
+.tag-chaos {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #FEE2E2;
+  color: #B91C1C;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  width: fit-content;
+  margin-bottom: 12px;
+}
+
+.chaos-beacon {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #EF4444;
+  animation: pulseLiveRed 1.6s infinite;
+}
+
+.chaos-visual-stage {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.clock-spin-widget {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: rgba(255, 255, 255, 0.85);
+  border: 1px solid #FCA5A5;
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+
+.clock-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.clock-icon-anim {
+  font-size: 1.25rem;
+  display: inline-block;
+  animation: wobbleClock 2.4s infinite ease-in-out;
+}
+
+@keyframes wobbleClock {
+  0%, 100% { transform: rotate(0deg); }
+  25% { transform: rotate(-12deg); }
+  75% { transform: rotate(12deg); }
+}
+
+.clock-text {
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #7F1D1D;
+  line-height: 1.2;
+}
+
+.clock-badge-hours {
+  font-size: 0.68rem;
+  font-weight: 800;
+  color: #DC2626;
+  background: #FEE2E2;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+
+.stamped-doc-card {
+  background: #FFFFFF;
+  border: 1px dashed #F87171;
+  border-radius: 8px;
+  padding: 10px;
+  position: relative;
+  overflow: hidden;
+}
+
+.doc-top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #991B1B;
+  margin-bottom: 6px;
+}
+
+.stamp-reject {
+  background: #EF4444;
+  color: #FFFFFF;
+  font-size: 0.65rem;
+  font-weight: 900;
+  letter-spacing: 0.06em;
+  padding: 2px 6px;
+  border-radius: 4px;
+  transform: rotate(-6deg);
+  display: inline-block;
+  box-shadow: 0 2px 6px rgba(239, 68, 68, 0.35);
+  animation: stampPulse 2s infinite ease-in-out;
+}
+
+@keyframes stampPulse {
+  0%, 100% { transform: rotate(-6deg) scale(1); }
+  50% { transform: rotate(-6deg) scale(1.08); }
+}
+
+.doc-warning-quote {
+  font-size: 0.74rem;
+  color: #B91C1C;
+  line-height: 1.35;
+  font-style: italic;
+  background: #FEF2F2;
+  border-left: 2px solid #EF4444;
+  padding: 4px 8px;
+  border-radius: 0 4px 4px 0;
+}
+
+.takeaway-chaos {
+  font-size: 0.74rem;
+  color: #991B1B;
+  background: rgba(254, 226, 226, 0.6);
+  border-radius: 6px;
+  padding: 6px 8px;
+  line-height: 1.35;
+}
+
+/* 2. COMFORT WORLD (Nokta Güvencesi) */
+.world-comfort {
+  background: linear-gradient(180deg, #FFFFFF 0%, #F0FDF4 100%);
+  border: 1.5px solid #86EFAC;
+  box-shadow: 0 12px 30px -8px rgba(16, 185, 129, 0.16), 0 0 0 1px rgba(255, 255, 255, 0.8);
+}
+
+.tag-comfort {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #DCFCE7;
+  color: #15803D;
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  width: fit-content;
+  margin-bottom: 12px;
+}
+
+.comfort-beacon {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #10B981;
+  animation: pulseLiveGreen 1.6s infinite;
+}
+
+.comfort-visual-stage {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.live-chat-bubble {
+  background: #FFFFFF;
+  border: 1px solid #BBF7D0;
+  border-radius: 8px;
+  padding: 9px 11px;
+  box-shadow: 0 4px 14px rgba(16, 185, 129, 0.08);
+  position: relative;
+  animation: bubbleFloat 3s infinite ease-in-out;
+}
+
+@keyframes bubbleFloat {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-2px); }
+}
+
+.chat-bubble-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+
+.chat-author {
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: #166534;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.chat-time {
+  font-size: 0.66rem;
+  color: var(--quiet);
+}
+
+.chat-bubble-msg {
+  font-size: 0.76rem;
+  color: var(--ink);
+  line-height: 1.35;
+  margin-bottom: 4px;
+}
+
+.chat-double-check {
+  font-size: 0.68rem;
+  color: #15803D;
+  font-weight: 800;
+  text-align: right;
+}
+
+.gold-deed-badge {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(135deg, #FEFCE8 0%, #FFFFFF 100%);
+  border: 1px solid #FEF08A;
+  border-radius: 8px;
+  padding: 8px 10px;
+}
+
+.deed-badge-left {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.deed-icon-sparkle {
+  font-size: 1.25rem;
+}
+
+.deed-badge-title {
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: #854D0E;
+  line-height: 1.2;
+}
+
+.deed-badge-sub {
+  font-size: 0.68rem;
+  color: var(--quiet);
+}
+
+.deed-badge-tag {
+  font-size: 0.68rem;
+  font-weight: 800;
+  color: #166534;
+  background: #DCFCE7;
+  padding: 2px 7px;
+  border-radius: 999px;
+}
+
+.takeaway-comfort {
+  font-size: 0.73rem;
+  color: #166534;
+  background: rgba(220, 252, 231, 0.7);
+  border-radius: 6px;
+  padding: 5px 8px;
+  line-height: 1.35;
+}
+
+/* Story Nav Bar - Ultra Minimalist 3 Short Lines */
+.dual-story-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  margin-bottom: 4px;
+  user-select: none;
+}
+
+.story-nav-btn {
+  background: transparent;
+  border: none;
+  padding: 6px 0;
+  width: 32px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  outline: none;
+}
+
+.story-nav-btn:hover {
+  opacity: 0.8;
+  transform: translateY(-1px);
+}
+
+.story-bar {
+  display: block;
+  width: 100%;
+  height: 3px;
+  background: #E2E8F0;
+  border-radius: 999px;
+  overflow: hidden;
+  position: relative;
+}
+
+.story-bar-fill {
+  display: block;
+  height: 100%;
+  width: 0%;
+  background: #0F172A;
+  border-radius: 999px;
+  transition: width 0.05s linear;
+}
+
+.story-nav-btn.active .story-bar-fill {
+  background: #0F172A;
+}
+
+.hero-actions-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+}
+
+/* Hero Right Stage: Unified Video + 6 Services Carousel */
+.hero-stage-box {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-height: 440px;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--line);
+  background: var(--cream);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: grab;
+  user-select: none;
+}
+
+/* Responsive Media Queries for Hero Symmetry & Mobile */
+@media (max-width: 992px) {
+  .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 32px;
+    align-items: start;
+  }
+  .hero-left-copy {
+    height: auto;
+  }
+  .hero-stage-box {
+    min-height: 380px;
+    height: auto;
+    aspect-ratio: 16 / 11;
+  }
+}
+
+@media (max-width: 680px) {
+  .hero-wrap {
+    padding: 30px 0 40px;
+  }
+  .hero-h1 {
+    font-size: 1.85rem;
+    line-height: 1.2;
+    margin-bottom: 12px;
+    min-height: 115px;
+  }
+  .dual-story-stage {
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+  }
+  .visual-card-world {
+    padding: 10px 8px;
+    border-radius: 8px;
+    height: 412px;
+  }
+  .dual-story-nav {
+    gap: 8px;
+    margin-top: 8px;
+  }
+  .tag-chaos, .tag-comfort {
+    font-size: 0.62rem;
+    padding: 2px 6px;
+    margin-bottom: 8px;
+  }
+  .clock-spin-widget {
+    padding: 5px 6px;
+  }
+  .clock-text {
+    font-size: 0.68rem;
+  }
+  .clock-badge-hours {
+    font-size: 0.6rem;
+    padding: 1px 4px;
+  }
+  .stamped-doc-card {
+    padding: 6px 8px;
+  }
+  .doc-top-bar {
+    font-size: 0.65rem;
+  }
+  .stamp-reject {
+    font-size: 0.58rem;
+    padding: 1px 4px;
+  }
+  .doc-warning-quote {
+    font-size: 0.66rem;
+    line-height: 1.25;
+    padding: 3px 5px;
+  }
+  .takeaway-chaos, .takeaway-comfort {
+    font-size: 0.65rem;
+    line-height: 1.2;
+    padding: 4px 6px;
+  }
+  .chat-author {
+    font-size: 0.65rem;
+  }
+  .chat-time {
+    font-size: 0.6rem;
+  }
+  .chat-bubble-msg {
+    font-size: 0.68rem;
+    line-height: 1.25;
+  }
+  .chat-double-check {
+    font-size: 0.62rem;
+  }
+  .gold-deed-badge {
+    padding: 5px 6px;
+  }
+  .deed-badge-title {
+    font-size: 0.68rem;
+  }
+  .deed-badge-sub {
+    font-size: 0.6rem;
+  }
+  .deed-badge-tag {
+    font-size: 0.6rem;
+    padding: 1px 5px;
+  }
+  .hero-actions-group {
+    flex-direction: column;
+    width: 100%;
+    gap: 10px;
+  }
+  .hero-actions-group .button {
+    width: 100%;
+    padding: 12px 16px;
+    font-size: 0.88rem;
+  }
+}
+
+.hero-stage-box:active {
+  cursor: grabbing;
+}
+
+.hero-layer-viewport {
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  flex: 1;
+  display: flex;
+}
+
+.hero-layer-track {
+  display: flex;
+  transition: transform 0.85s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform;
+  width: 100%;
+  height: 100%;
+}
+
+.hero-layer-card {
+  min-width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100%;
+}
+
+/* Slide 0: Video Slide */
+.hero-video-slide {
+  position: relative;
+  background: #000;
+  overflow: hidden;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.video-slide-badge {
+  position: absolute;
+  top: 14px;
+  left: 16px;
+  right: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 3;
+  pointer-events: none;
+}
+
+.video-slide-badge .badge-red {
+  background: rgba(180, 33, 50, 0.9);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  padding: 4px 10px;
+  border-radius: 4px;
+  backdrop-filter: blur(4px);
+}
+
+.video-slide-badge .badge-green {
+  background: rgba(0, 0, 0, 0.6);
+  color: #10B981;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(4px);
+}
+
+.carousel-inner-video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  background: #000;
+  display: block;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* Floating Stage Navigation Arrows */
+.hero-stage-nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  line-height: 1;
+  color: var(--ink);
+  cursor: pointer;
+  z-index: 10;
+  transition: all 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
+  opacity: 0.85;
+}
+
+.hero-stage-nav:hover {
+  opacity: 1;
+  background: #ffffff;
+  transform: translateY(-50%) scale(1.1);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}
+
+.hero-stage-nav.prev {
+  left: 12px;
+}
+
+.hero-stage-nav.next {
+  right: 12px;
+}
+
+/* Slide 1..6: Content Slide */
+.hero-content-slide {
+  padding: 30px 28px 20px;
+  background: var(--cream);
+}
+
+.hero-layer-card .box-top-tag {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: var(--quiet);
+}
+
+.hero-layer-card .card-icon-badge {
+  font-size: 2.2rem;
+  margin-bottom: 12px;
+  line-height: 1;
+}
+
+.hero-layer-card h3 {
+  font-family: var(--serif);
+  font-size: 1.45rem;
+  color: var(--ink);
+  margin-bottom: 12px;
+  line-height: 1.25;
+}
+
+.hero-layer-card p {
+  font-size: 0.94rem;
+  color: var(--ink-soft);
+  line-height: 1.65;
+  margin: 0;
+}
+
+.hero-layer-dots {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 12px 0 16px;
+  background: var(--cream);
+  border-top: 1px solid var(--line);
+  margin-top: auto;
+  z-index: 4;
+}
+
+.hero-layer-dots .h-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--line);
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.hero-layer-dots .h-dot.active {
+  width: 24px;
+  border-radius: 10px;
+  background: var(--red);
+}
+
+/* Hero Right: Lead Action Card (Legacy Fallback) */
+.hero-action-box {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 30px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.04);
+}
+
+.box-top-tag {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  color: var(--quiet);
+}
+
+.box-top-tag span.badge-green {
+  color: #10B981;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.box-top-tag span.badge-green::before {
+  content: '';
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: #10B981;
+}
+
+/* Hero Slider Styles (6 İhtisas Hizmeti Auto-Slide) */
+.hero-slider-viewport {
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  margin-bottom: 8px;
+}
+
+.hero-slider-track {
+  display: flex;
+  transition: transform 0.45s cubic-bezier(0.25, 1, 0.5, 1);
+  will-change: transform;
+}
+
+.hero-slide-item {
+  min-width: 100%;
+  box-sizing: border-box;
+}
+
+.slide-badge-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.slide-icon {
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+.slide-tag {
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: var(--red);
+  background: #FBECEE;
+  padding: 3px 8px;
+  border-radius: 4px;
+  border: 1px solid rgba(180, 33, 50, 0.15);
+}
+
+.slide-title {
+  font-size: 1.25rem !important;
+  font-family: var(--serif);
+  color: var(--ink);
+  margin-bottom: 8px !important;
+  line-height: 1.3;
+}
+
+.slide-desc {
+  font-size: 0.88rem !important;
+  color: var(--ink-soft);
+  line-height: 1.55 !important;
+  margin-bottom: 14px !important;
+  min-height: 58px;
+}
+
+.hero-slider-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 14px;
+  padding: 2px 0;
+}
+
+.slider-arrow {
+  background: #fff;
+  border: 1px solid var(--line);
+  color: var(--ink-soft);
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1.1rem;
+  line-height: 1;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.slider-arrow:hover {
+  background: var(--paper-strong);
+  color: var(--ink);
+  border-color: var(--ink-soft);
+}
+
+.slider-dots {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.slider-dots .dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--line);
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.slider-dots .dot.active {
+  width: 22px;
+  border-radius: 10px;
+  background: var(--red);
+}
+
+.carousel-step-counter {
+  font-size: 0.75rem;
+  color: var(--red);
+  font-weight: 700;
+  margin-left: 4px;
+}
+
+.hero-contacts-footer {
+  margin-top: 1rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.hero-contacts-footer .contact-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero-contacts-footer .contact-phone {
+  color: var(--red);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.hero-action-box h3 {
+  font-size: 1.35rem;
+  margin-bottom: 10px;
+}
+
+.hero-action-box p {
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+  margin-bottom: 22px;
+}
+
+.wa-card-trigger {
+  display: block;
+  padding: 18px;
+  background: #F0FAF4;
+  border: 1px dashed rgba(37, 211, 102, 0.5);
+  border-radius: var(--radius-md);
+  text-align: center;
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+.wa-card-trigger:hover {
+  background: #E5F6EC;
+  border-color: #25D366;
+  transform: translateY(-2px);
+}
+
+.wa-trigger-icon {
+  font-size: 1.8rem;
+  margin-bottom: 4px;
+  display: block;
+}
+
+.wa-trigger-title {
+  font-size: 0.98rem;
+  font-weight: 800;
+  color: #15803D;
+  display: block;
+}
+
+.wa-trigger-sub {
+  font-size: 0.8rem;
+  color: var(--quiet);
+}
+
+/* ========================================================
+   SECTION: PROOF STRIP (TRANSPARENCY BAR)
+======================================================== */
+.proof-strip {
+  background: var(--paper-strong);
+  border-bottom: 1px solid var(--line);
+  padding: 22px 0;
+}
+
+.proof-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+}
+
+.proof-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+
+.proof-num {
+  font-family: var(--font-serif);
+  font-size: 1.3rem;
+  color: var(--red);
+  line-height: 1;
+}
+
+.proof-text strong {
+  display: block;
+  color: var(--ink);
+  font-size: 0.9rem;
+  margin-bottom: 2px;
+}
+
+/* ========================================================
+   SECTION: OPERASYONEL ÇÖZÜMLER (17 SPECIALIZED SERVICES)
+======================================================== */
+.ops-section {
+  background: var(--paper);
+}
+
+.ops-filter-container {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 40px;
+}
+
+.ops-filter-btn {
+  padding: 8px 18px;
+  border-radius: 999px;
+  background: var(--cream);
+  border: 1px solid var(--line);
+  color: var(--ink-soft);
+  font-size: 0.85rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.ops-filter-btn:hover {
+  background: var(--paper-strong);
+  color: var(--ink);
+}
+
+.ops-filter-btn.active {
+  background: var(--ink);
+  color: #FFF;
+  border-color: var(--ink);
+}
+
+.ops-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 20px;
+}
+
+.ops-card {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 26px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: var(--transition);
+}
+
+.ops-card:hover {
+  border-color: var(--red);
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+}
+
+.ops-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.ops-card-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-md);
+  background: var(--paper-strong);
+  border: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.25rem;
+}
+
+.ops-category-label {
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--quiet);
+}
+
+.ops-card h4 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+  color: var(--ink);
+}
+
+.ops-card p {
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+  margin-bottom: 20px;
+  flex: 1;
+}
+
+.ops-card-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 14px;
+  border-top: 1px solid var(--line-subtle);
+}
+
+.ops-link-detail {
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: var(--red);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.ops-link-detail:hover {
+  text-decoration: underline;
+}
+
+.ops-wa-pill {
+  padding: 6px 14px;
+  border-radius: 999px;
+  background: #E8F7EE;
+  border: 1px solid rgba(37, 211, 102, 0.4);
+  color: #15803D;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: var(--transition);
+}
+
+.ops-wa-pill:hover {
+  background: #25D366;
+  color: #FFF;
+}
+
+/* ========================================================
+   SECTION: 6 CORE VERIFIED SERVICES (AUTO-SLIDING CAROUSEL)
+======================================================== */
+.core-services-section {
+  background: var(--paper);
+  position: relative;
+  overflow: hidden;
+}
+
+.services-carousel-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.services-carousel-viewport {
+  overflow: hidden;
+  width: 100%;
+  padding: 15px 4px;
+}
+
+.services-carousel-track {
+  display: flex;
+  gap: 24px;
+  transition: transform 0.5s cubic-bezier(0.25, 1, 0.5, 1);
+  will-change: transform;
+}
+
+.service-slide-card {
+  flex: 0 0 calc(33.333% - 16px);
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 28px 26px;
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.04);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  min-height: 290px;
+}
+
+.service-slide-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.08);
+}
+
+@media (max-width: 1024px) {
+  .service-slide-card {
+    flex: 0 0 calc(50% - 12px);
+  }
+}
+
+@media (max-width: 640px) {
+  .service-slide-card {
+    flex: 0 0 100%;
+  }
+}
+
+.card-body-content {
+  margin-bottom: 20px;
+}
+
+.card-icon-badge {
+  font-size: 2rem;
+  margin-bottom: 12px;
+}
+
+.service-slide-card h3 {
+  font-family: var(--serif);
+  font-size: 1.35rem;
+  color: var(--ink);
+  margin-bottom: 12px;
+  line-height: 1.3;
+}
+
+.service-slide-card p {
+  font-size: 0.92rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+  min-height: 85px;
+}
+
+.carousel-control-btn {
+  background: #fff;
+  border: 1px solid var(--line);
+  color: var(--ink);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: all 0.2s ease;
+  flex-shrink: 0;
+  z-index: 2;
+  user-select: none;
+}
+
+.carousel-control-btn:hover {
+  background: var(--red);
+  color: #fff;
+  border-color: var(--red);
+  transform: scale(1.05);
+}
+
+.svc-carousel-dots {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  margin-top: 24px;
+}
+
+.svc-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--line);
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.svc-dot.active {
+  width: 26px;
+  border-radius: 12px;
+  background: var(--red);
+}
+
+.core-service-box p {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  line-height: 1.65;
+  margin-bottom: 16px;
+}
+
+.core-law-tag {
+  display: inline-block;
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: var(--quiet);
+  background: var(--paper-strong);
+  padding: 4px 10px;
+  border-radius: 4px;
+}
+
+/* ========================================================
+   SECTION: INTERACTIVE TOOLS (CALCULATOR & CHECKLIST)
+======================================================== */
+.tools-section {
+  background: var(--paper);
+}
+
+.tools-grid-dual {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+}
+
+.tool-card-box {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 34px;
+}
+
+.tool-card-box h3 {
+  font-size: 1.35rem;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.tool-card-box p.tool-lead {
+  font-size: 0.9rem;
+  color: var(--ink-soft);
+  margin-bottom: 22px;
+}
+
+.tool-field {
+  margin-bottom: 18px;
+}
+
+.tool-field label {
+  display: block;
+  font-size: 0.85rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+  color: var(--ink);
+}
+
+.tool-field input, .tool-field select {
+  width: 100%;
+  padding: 12px 16px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 0.94rem;
+  transition: var(--transition);
+}
+
+.tool-field input:focus, .tool-field select:focus {
+  outline: none;
+  border-color: var(--red);
+  box-shadow: 0 0 10px var(--red-glow);
+}
+
+.calc-result-display {
+  padding: 20px;
+  background: var(--paper-strong);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  text-align: center;
+  margin-top: 20px;
+}
+
+.calc-days-big {
+  font-family: var(--font-serif);
+  font-size: 3.2rem;
+  font-weight: 400;
+  color: var(--red);
+  line-height: 1;
+  margin-bottom: 4px;
+}
+
+/* Checklist Rows */
+.check-item-card {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 16px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: var(--transition);
+  user-select: none;
+}
+
+.check-item-card:hover {
+  border-color: var(--ink-soft);
+}
+
+.check-item-card.checked {
+  background: #F0FAF4;
+  border-color: rgba(37, 211, 102, 0.5);
+}
+
+.check-box-ui {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  border: 2px solid var(--line);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.75rem;
+  font-weight: 900;
+  color: transparent;
+  transition: var(--transition);
+}
+
+.check-item-card.checked .check-box-ui {
+  background: #25D366;
+  border-color: #25D366;
+  color: #FFF;
+}
+
+.check-content-txt strong {
+  display: block;
+  font-size: 0.92rem;
+  color: var(--ink);
+}
+
+.check-content-txt span {
+  font-size: 0.78rem;
+  color: var(--quiet);
+}
+
+.progress-track-bg {
+  width: 100%;
+  height: 6px;
+  background: var(--line);
+  border-radius: 999px;
+  overflow: hidden;
+  margin: 12px 0 20px;
+}
+
+.progress-track-fill {
+  height: 100%;
+  width: 0%;
+  background: var(--red);
+  transition: width 0.3s ease;
+}
+
+/* ========================================================
+   SECTION: COMPARISON TABLE
+======================================================== */
+.compare-section {
+  background: var(--cream);
+}
+
+.compare-overflow {
+  overflow-x: auto;
+}
+
+.compare-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 8px;
+}
+
+.compare-table th {
+  padding: 14px 18px;
+  font-size: 0.92rem;
+  font-weight: 800;
+  text-align: left;
+}
+
+.compare-table th:nth-child(2) { color: #DC2626; }
+.compare-table th:nth-child(3) { color: #16A34A; }
+
+.compare-tr td {
+  padding: 18px;
+  background: var(--paper);
+  font-size: 0.9rem;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.compare-tr td:first-child {
+  font-weight: 700;
+  border-left: 1px solid var(--line);
+  border-radius: var(--radius-md) 0 0 var(--radius-md);
+}
+
+.compare-tr td:nth-child(2) {
+  color: #991B1B;
+}
+
+.compare-tr td:nth-child(3) {
+  color: #15803D;
+  font-weight: 600;
+  border-right: 1px solid var(--line);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  background: #F4FAF6;
+}
+
+/* ========================================================
+   SECTION: PROCESS (SÜREÇ ADIMLARI)
+======================================================== */
+.process-section {
+  background: var(--paper);
+}
+
+.process-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.process-item-box {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 28px 22px;
+}
+
+.process-step-badge {
+  font-family: var(--font-serif);
+  font-size: 2.2rem;
+  color: var(--red);
+  line-height: 1;
+  margin-bottom: 12px;
+  display: block;
+}
+
+.process-item-box h4 {
+  font-size: 1.05rem;
+  margin-bottom: 8px;
+}
+
+.process-item-box p {
+  font-size: 0.86rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+/* ========================================================
+   SECTION: ABOUT & MAP
+======================================================== */
+.about-section {
+  background: var(--cream);
+}
+
+.about-dual-grid {
+  display: grid;
+  grid-template-columns: 1.05fr 0.95fr;
+  gap: 40px;
+  align-items: center;
+}
+
+.about-text-panel {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 38px;
+}
+
+.about-text-panel h3 {
+  font-size: 1.7rem;
+  margin-bottom: 16px;
+}
+
+.about-text-panel p {
+  color: var(--ink-soft);
+  margin-bottom: 16px;
+  line-height: 1.7;
+}
+
+.contact-meta-group {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-top: 22px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.meta-row-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.9rem;
+}
+
+.meta-row-item strong {
+  display: block;
+  color: var(--ink);
+}
+
+.meta-row-item a {
+  color: var(--red);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.map-card-wrapper {
+  height: 420px;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  border: 1px solid var(--line);
+}
+
+.map-card-wrapper iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+/* ========================================================
+   SECTION: FAQ ACCORDION
+======================================================== */
+.faq-section {
+  background: var(--paper);
+}
+
+.faq-list-wrap {
+  max-width: 780px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.faq-card-panel {
+  background: var(--cream);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.faq-trigger-btn {
+  width: 100%;
+  padding: 18px 24px;
+  background: none;
+  border: none;
+  color: var(--ink);
+  font-family: inherit;
+  font-size: 0.98rem;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+}
+
+.faq-trigger-btn:hover {
+  background: var(--paper-strong);
+}
+
+.faq-arrow-icon {
+  font-size: 0.75rem;
+  color: var(--quiet);
+  transition: transform 0.28s ease;
+}
+
+.faq-card-panel.active .faq-arrow-icon {
+  transform: rotate(180deg);
+  color: var(--red);
+}
+
+.faq-drawer-body {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.faq-drawer-content {
+  padding: 0 24px 20px;
+  color: var(--ink-soft);
+  font-size: 0.9rem;
+  line-height: 1.65;
+}
+
+/* ========================================================
+   FOOTER & LEGAL
+======================================================== */
+.footer-contact-band {
+  background: var(--ink);
+  color: #FFF;
+  padding: 70px 0;
+  text-align: center;
+}
+
+.footer-contact-band h2 {
+  font-family: var(--font-serif);
+  font-size: 2.4rem;
+  font-weight: 400;
+  color: #FFF;
+  margin-bottom: 14px;
+}
+
+.footer-contact-band p {
+  color: #A1A1AA;
+  max-width: 580px;
+  margin: 0 auto 30px;
+  font-size: 1rem;
+}
+
+.site-footer {
+  background: #18181B;
+  color: #A1A1AA;
+  padding: 50px 0 24px;
+  font-size: 0.82rem;
+  border-top: 1px solid #27272A;
+}
+
+.footer-legal-notice {
+  padding-bottom: 24px;
+  margin-bottom: 24px;
+  border-bottom: 1px solid #27272A;
+  line-height: 1.7;
+  color: #71717A;
+}
+
+.footer-bottom-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.footer-bottom-row a {
+  color: #D4D4D8;
+  text-decoration: none;
+}
+
+/* Fixed Mobile Sticky Bar */
+.mobile-fixed-bar {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+  padding: 10px 16px;
+  background: rgba(246, 245, 242, 0.96);
+  backdrop-filter: blur(16px);
+  border-top: 1px solid var(--line);
+  gap: 10px;
+}
+
+.mobile-fixed-bar a {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 13px;
+  border-radius: var(--radius-md);
+  font-weight: 800;
+  font-size: 0.92rem;
+  text-decoration: none;
+}
+
+.mob-wa { background: #25D366; color: #FFF; }
+.mob-tel { background: var(--red); color: #FFF; }
+
+/* Responsive */
+@media (max-width: 992px) {
+  .hero-grid { grid-template-columns: 1fr; }
+  .tools-grid-dual { grid-template-columns: 1fr; }
+  .about-dual-grid { grid-template-columns: 1fr; }
+  .proof-grid { grid-template-columns: 1fr 1fr; }
+  .process-grid-4 { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 768px) {
+  .header-nav { display: none; }
+  .mobile-toggle-btn { display: block; }
+  .mobile-fixed-bar { display: flex; }
+  body { padding-bottom: 65px; }
+  .hero-wrap { padding: 40px 0; }
+  .content-section { padding: 55px 0; }
+  .tool-card-box { padding: 22px; }
+  .about-text-panel { padding: 22px; }
+  .proof-grid { grid-template-columns: 1fr; }
+  .process-grid-4 { grid-template-columns: 1fr; }
+}
+
+/* ========================================================
+   2035 INTERACTIVE DEED PROCESS SIMULATOR & KINETIC CSS
+======================================================== */
+.node-simulator-section {
+  padding: 70px 0;
+  background: linear-gradient(180deg, rgba(248, 250, 252, 0.8) 0%, #FFFFFF 100%);
+  border-bottom: 1px solid var(--line);
+  position: relative;
+  overflow: hidden;
+}
+
+.node-simulator-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 900px;
+  height: 350px;
+  background: radial-gradient(ellipse at center, rgba(14, 165, 233, 0.07) 0%, rgba(225, 29, 72, 0.04) 50%, transparent 75%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.simulator-hud-container {
+  position: relative;
+  z-index: 1;
+  background: var(--glass-card);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(226, 232, 240, 0.9);
+  border-radius: var(--radius-xl);
+  box-shadow: 0 25px 60px -15px rgba(15, 23, 42, 0.08), 0 0 0 1px rgba(255, 255, 255, 0.8);
+  padding: 38px;
+}
+
+.flow-tabs-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 34px;
+}
+
+.flow-tab-btn {
+  background: #FFFFFF;
+  border: 1px solid var(--line);
+  padding: 10px 20px;
+  border-radius: 999px;
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--ink-soft);
+  cursor: pointer;
+  transition: var(--transition);
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
+}
+
+.flow-tab-btn:hover {
+  border-color: var(--red);
+  color: var(--ink);
+  transform: translateY(-1px);
+}
+
+.flow-tab-btn.active {
+  background: var(--ink);
+  color: #FFFFFF;
+  border-color: var(--ink);
+  box-shadow: 0 8px 20px -4px rgba(15, 23, 42, 0.25);
+}
+
+.flow-tab-btn.active .tab-badge {
+  background: var(--red);
+  color: #FFFFFF;
+}
+
+.tab-badge {
+  font-size: 0.72rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  background: var(--paper-strong);
+  color: var(--quiet);
+  transition: var(--transition);
+}
+
+.nodes-pipeline {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.node-item {
+  position: relative;
+  background: #FFFFFF;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 24px 16px;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.03);
+  text-align: center;
+}
+
+.node-item:hover {
+  transform: translateY(-3px);
+  border-color: #CBD5E1;
+  box-shadow: 0 12px 24px -6px rgba(15, 23, 42, 0.08);
+}
+
+.node-item.active {
+  border-color: var(--red);
+  background: #FFFFFF;
+  box-shadow: 0 16px 32px -8px var(--red-glow), 0 0 0 2px var(--red);
+}
+
+.node-step-indicator {
+  width: 34px;
+  height: 34px;
+  margin: 0 auto 12px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 0.85rem;
+  background: var(--paper-strong);
+  color: var(--ink-soft);
+  transition: var(--transition);
+}
+
+.node-item.active .node-step-indicator {
+  background: var(--red);
+  color: #FFFFFF;
+  box-shadow: 0 0 14px var(--red-glow);
+}
+
+.node-icon {
+  font-size: 1.5rem;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.node-title {
+  font-weight: 800;
+  font-size: 0.95rem;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+
+.node-place {
+  font-size: 0.78rem;
+  color: var(--quiet);
+  font-weight: 600;
+}
+
+.node-connector-beam {
+  position: absolute;
+  top: 42px;
+  left: 12%;
+  right: 12%;
+  height: 3px;
+  background: #E2E8F0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.node-connector-pulse {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, var(--red), var(--cyan-accent), transparent);
+  width: 25%;
+  animation: pulseTrack 3s infinite linear;
+}
+
+@keyframes pulseTrack {
+  0% { left: -25%; }
+  100% { left: 100%; }
+}
+
+.node-display-hud {
+  background: #FFFFFF;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-lg);
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 1.25fr 0.75fr;
+  gap: 28px;
+  align-items: center;
+  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.04);
+}
+
+.hud-left-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.hud-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--red-soft);
+  color: var(--red);
+  font-weight: 800;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  padding: 4px 12px;
+  border-radius: 999px;
+  width: fit-content;
+}
+
+.hud-title {
+  font-size: 1.35rem;
+  font-weight: 800;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+}
+
+.hud-desc {
+  font-size: 0.95rem;
+  color: var(--ink-soft);
+  line-height: 1.6;
+}
+
+.hud-specs-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-top: 8px;
+}
+
+.hud-spec-card {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-md);
+  padding: 12px 16px;
+}
+
+.hud-spec-label {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--quiet);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  margin-bottom: 4px;
+}
+
+.hud-spec-val {
+  font-weight: 800;
+  font-size: 0.92rem;
+  color: var(--ink);
+}
+
+.hud-right-action {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 14px;
+  padding-left: 20px;
+  border-left: 1px solid var(--line);
+}
+
+.hud-action-card {
+  background: linear-gradient(135deg, rgba(225, 29, 72, 0.04) 0%, rgba(14, 165, 233, 0.04) 100%);
+  border: 1px dashed #CBD5E1;
+  border-radius: var(--radius-md);
+  padding: 18px;
+  text-align: center;
+}
+
+.hud-action-card h4 {
+  font-size: 0.92rem;
+  font-weight: 800;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+
+.hud-action-card p {
+  font-size: 0.8rem;
+  color: var(--quiet);
+  line-height: 1.5;
+  margin-bottom: 14px;
+}
+
+.magnetic-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s;
+  will-change: transform;
+}
+
+@media (max-width: 900px) {
+  .nodes-pipeline {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .node-connector-beam {
+    display: none;
+  }
+  .node-display-hud {
+    grid-template-columns: 1fr;
+  }
+  .hud-right-action {
+    padding-left: 0;
+    border-left: none;
+    border-top: 1px solid var(--line);
+    padding-top: 20px;
+  }
+}
+
+</style>
+</head>
+<body>
+
+<!-- ========================================================
+     1. TOP STRIP
+======================================================== -->
+<div class="top-strip">
+  <div class="site-width top-strip-inner">
+    <span>ATAŞEHİR · İSTANBUL</span>
+    <div class="top-strip-phones">
+      <a href="tel:+905538525308">📞 0553 852 53 08</a>
+      <a href="tel:+905079131882">0507 913 18 82</a>
+    </div>
+  </div>
+</div>
+
+<!-- ========================================================
+     2. SITE HEADER & NAVIGATION
+======================================================== -->
+<header class="site-header" id="navbar">
+  <div class="site-width header-inner">
+    <a href="#" class="brand-link" aria-label="Nokta Tapu Takip Danışmanlık Ana Sayfa">
+      <img src="assets/logo.jpg" alt="Nokta Tapu Takip Danışmanlık" class="brand-logo-img">
+    </a>
+
+    <ul class="header-nav">
+      <li><a href="#operasyonel">Hizmetlerimiz</a></li>
+      <li><a href="#hesaplayici">Süre Hesaplama</a></li>
+      <li><a href="#evrak-robotu">Evrak Kontrol</a></li>
+      <li><a href="#karsilastirma">Neden Biz?</a></li>
+      <li><a href="#iletisim">İletişim</a></li>
+    </ul>
+
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <a href="https://wa.me/905538525308?text=Merhaba%20Batuhan%20Bey%2C%20tapu%20ve%20veraset%20i%C5%9Flemlerim%20i%C3%A7in%20bilgi%20almak%20istiyorum." class="button button-wa" target="_blank" rel="noopener">
+        <span>💬</span> <span>WhatsApp</span>
+      </a>
+      <button class="mobile-toggle-btn" onclick="toggleMobileMenu()">☰</button>
+    </div>
+  </div>
+</header>
+
+<!-- ========================================================
+     3. HERO SECTION
+======================================================== -->
+<section class="hero-wrap">
+  <div class="site-width">
+    <div class="hero-grid">
+
+      <div class="hero-left-copy">
+        <div class="hero-kicker-tag">
+          ATAŞEHİR · İSTANBUL · TÜM TAPU DAİRELERİ
+        </div>
+
+        <h1 class="hero-h1">
+          <span class="hero-h1-static">Tapu sürecinizi,</span>
+          <span class="hero-h1-typewriter">
+            <span id="heroTypewriterText" class="typewriter-text">nasıl yönetmek istersiniz?</span><span class="typewriter-cursor" aria-hidden="true">|</span>
+          </span>
+        </h1>
+
+        <!-- VISUAL DUAL CANVAS (Kutular Sabit, İçerik 0.85s Su Gibi Eriyerek Değişir) -->
+        <div class="visual-dual-canvas" id="dualStoryCanvas">
+          
+          <div class="dual-story-stage">
+            
+            <!-- SOL KART: BİREYSEL BAŞVURUDA YAŞANANLAR (100% SABİT VE KALICI KUTU) -->
+            <div class="visual-card-world world-chaos" id="cardChaos">
+              <div class="card-inner-fade-stage" id="chaosFadeStage">
+              
+                <!-- Story 0: Memur Dili -->
+                <div class="card-story-slide" data-story="0" style="display: flex;">
+                  <div>
+                    <div class="tag-chaos">
+                      <span class="chaos-beacon"></span>
+                      BİLMEDİĞİNİZ BİR DİL
+                    </div>
+                    
+                    <div class="chaos-visual-stage">
+                      <div class="clock-spin-widget">
+                        <div class="clock-left">
+                          <span class="clock-icon-anim">🏛️</span>
+                          <div>
+                            <div class="clock-text">Tapudaki Memur Masası</div>
+                            <div style="font-size: 0.68rem; color: #991B1B;">"İntikal ilişiği kesilmemiş, tevhit yetkisi yok..."</div>
+                          </div>
+                        </div>
+                        <span class="clock-badge-hours">AĞIR TERİMLER</span>
+                      </div>
+
+                      <div class="stamped-doc-card">
+                        <div class="doc-top-bar">
+                          <span>📄 VATANDAŞIN DURUMU</span>
+                          <span class="stamp-reject">KAFA KARIŞIKLIĞI</span>
+                        </div>
+                        <div class="doc-warning-quote">
+                          "Ben sadece miras kalan evi devralmak istiyorum, bu terimlerin hiçbirini bilmiyorum..."
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="takeaway-chaos">
+                    <strong>Gerçek:</strong> Vatandaş bu dili bilmek zorunda değil; ama bilmeyince günlerce kapıda kalıyor.
+                  </div>
+                </div>
+
+                <!-- Story 1: İnternette Çelişkili Bilgiler -->
+                <div class="card-story-slide" data-story="1" style="display: none;">
+                  <div>
+                    <div class="tag-chaos">
+                      <span class="chaos-beacon"></span>
+                      İNTERNETTE ÇELİŞKİLİ BİLGİLER
+                    </div>
+                    
+                    <div class="chaos-visual-stage">
+                      <div class="clock-spin-widget">
+                        <div class="clock-left">
+                          <span class="clock-icon-anim">🔍</span>
+                          <div>
+                            <div class="clock-text">Google'da Arama Yapınca</div>
+                            <div style="font-size: 0.68rem; color: #991B1B;">"Miras kalan ev için hangi evraklar gerekir?"</div>
+                          </div>
+                        </div>
+                        <span class="clock-badge-hours">10 FARKLI YORUM</span>
+                      </div>
+
+                      <div class="stamped-doc-card">
+                        <div class="doc-top-bar">
+                          <span>📄 FORUM & BLOG KÖŞELERİ</span>
+                          <span class="stamp-reject">GÜNCEL DEĞİL</span>
+                        </div>
+                        <div class="doc-warning-quote">
+                          "İnternette yazan eski listeyle gittim; memur 'Bu evraklar artık değişti' dedi..."
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="takeaway-chaos">
+                    <strong>Gerçek:</strong> Forum köşelerinde kaybolur, yanlış evrak yüzünden haftalarca sıra beklersiniz.
+                  </div>
+                </div>
+
+                <!-- Story 2: Nereden Başlayacağını Bilememek -->
+                <div class="card-story-slide" data-story="2" style="display: none;">
+                  <div>
+                    <div class="tag-chaos">
+                      <span class="chaos-beacon"></span>
+                      NEREDEN BAŞLAYACAĞINI BİLEMEMEK
+                    </div>
+                    
+                    <div class="chaos-visual-stage">
+                      <div class="clock-spin-widget">
+                        <div class="clock-left">
+                          <span class="clock-icon-anim">⏳</span>
+                          <div>
+                            <div class="clock-text">Aylardır Ertelenen Dosya</div>
+                            <div style="font-size: 0.68rem; color: #991B1B;">"Kardeşler il dışında, vekalet nasıl verilecek?"</div>
+                          </div>
+                        </div>
+                        <span class="clock-badge-hours">6 AY BEKLEYİŞ</span>
+                      </div>
+
+                      <div class="stamped-doc-card">
+                        <div class="doc-top-bar">
+                          <span>📄 GECİKEN İNTİKAL BEYANI</span>
+                          <span class="stamp-reject">CEZA RİSKİ</span>
+                        </div>
+                        <div class="doc-warning-quote">
+                          "İşin içinden çıkamadığımız için aylardır bekliyor; yasal süreler dolmak üzere..."
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="takeaway-chaos">
+                    <strong>Gerçek:</strong> Gözünüzde büyüyen işlemler ertelendikçe cezalar ve aile içi pürüzler büyür.
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+            <!-- SAĞ KART: NOKTA DANIŞMANLIK (100% SABİT VE KALICI KUTU) -->
+            <div class="visual-card-world world-comfort" id="cardComfort">
+              <div class="card-inner-fade-stage" id="comfortFadeStage">
+              
+                <!-- Story 0: Bizim Günlük İşimiz -->
+                <div class="card-story-slide" data-story="0" style="display: flex;">
+                  <div>
+                    <div class="tag-comfort">
+                      <span class="comfort-beacon"></span>
+                      BİZİM GÜNLÜK İŞİMİZ
+                    </div>
+                    
+                    <div class="comfort-visual-stage">
+                      <div class="live-chat-bubble">
+                        <div class="chat-bubble-top">
+                          <span class="chat-author">🟢 Nokta Danışmanlık</span>
+                          <span class="chat-time">11:42</span>
+                        </div>
+                        <div class="chat-bubble-msg">
+                          "Siz sadece tapunun fotoğrafını atın. <strong>Notere, belediyeye ne yazılacağını biz harfi harfine hazırlarız.</strong>"
+                        </div>
+                        <div class="chat-double-check">✓✓ Sıfır Terim Karmaşası</div>
+                      </div>
+
+                      <div class="gold-deed-badge">
+                        <div class="deed-badge-left">
+                          <span class="deed-icon-sparkle">📜</span>
+                          <div>
+                            <div class="deed-badge-title">Tercümeye Gerek Yok</div>
+                            <div class="deed-badge-sub">Hukuki terimleri öğrenmeden doğrudan sonuca</div>
+                          </div>
+                        </div>
+                        <span class="deed-badge-tag">10 Dk İmza</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="takeaway-comfort">
+                    <strong>Gerçek:</strong> Biz bürokratik dili konuşuruz; siz yalnızca belirlenen saatte imzanızı atarsınız.
+                  </div>
+                </div>
+
+                <!-- Story 1: Tek Elden Net Cevap -->
+                <div class="card-story-slide" data-story="1" style="display: none;">
+                  <div>
+                    <div class="tag-comfort">
+                      <span class="comfort-beacon"></span>
+                      TEK ELDEN NET CEVAP
+                    </div>
+                    
+                    <div class="comfort-visual-stage">
+                      <div class="live-chat-bubble">
+                        <div class="chat-bubble-top">
+                          <span class="chat-author">🟢 Nokta Danışmanlık</span>
+                          <span class="chat-time">14:15</span>
+                        </div>
+                        <div class="chat-bubble-msg">
+                          "Dosyanızın güncel mevzuattaki tek gereksinimi bu belgedir. <strong>Kalan tüm resmi yazışmaları biz devraldık.</strong>"
+                        </div>
+                        <div class="chat-double-check">✓✓ Güncel Mevzuat</div>
+                      </div>
+
+                      <div class="gold-deed-badge">
+                        <div class="deed-badge-left">
+                          <span class="deed-icon-sparkle">📜</span>
+                          <div>
+                            <div class="deed-badge-title">15 Yıllık Kurum Tecrübesi</div>
+                            <div class="deed-badge-sub">Hangi kurumun bugün ne istediğini ezbere biliriz</div>
+                          </div>
+                        </div>
+                        <span class="deed-badge-tag">Sıfır Hata</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="takeaway-comfort">
+                    <strong>Gerçek:</strong> İnternet bilgi kirliliğiyle vakit kaybetmez, ilk adımda doğru sonuca ulaşırsınız.
+                  </div>
+                </div>
+
+                <!-- Story 2: Tek Telefonla Başlar -->
+                <div class="card-story-slide" data-story="2" style="display: none;">
+                  <div>
+                    <div class="tag-comfort">
+                      <span class="comfort-beacon"></span>
+                      TEK TELEFONLA BAŞLAR
+                    </div>
+                    
+                    <div class="comfort-visual-stage">
+                      <div class="live-chat-bubble">
+                        <div class="chat-bubble-top">
+                          <span class="chat-author">🟢 Nokta Danışmanlık</span>
+                          <span class="chat-time">16:30</span>
+                        </div>
+                        <div class="chat-bubble-msg">
+                          "Farklı şehirlerdeki tüm hissedarların vekaletlerini tek merkezden koordine ettik, <strong>dosyanız açıldı.</strong>"
+                        </div>
+                        <div class="chat-double-check">✓✓ Hissedarlar Çözüldü</div>
+                      </div>
+
+                      <div class="gold-deed-badge">
+                        <div class="deed-badge-left">
+                          <span class="deed-icon-sparkle">📜</span>
+                          <div>
+                            <div class="deed-badge-title">Masadan Kalkan Dosya</div>
+                            <div class="deed-badge-sub">Aylardır gözünüzde büyüyen işlem birkaç günlük mesai</div>
+                          </div>
+                        </div>
+                        <span class="deed-badge-tag">Pürüzsüz Takip</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="takeaway-comfort">
+                    <strong>Gerçek:</strong> Aylar süren belirsizlik biter; dosyanız tek bir telefonla masadan kalkar.
+                  </div>
+                </div>
+
+              </div>
+            </div>
+
+          </div>
+
+          <!-- 3-Aşamalı Hikaye İlerleme Çizgileri -->
+          <div class="dual-story-nav" id="dualStoryNav">
+            <button type="button" class="story-nav-btn active" data-index="0" aria-label="1. Sahne">
+              <span class="story-bar"><span class="story-bar-fill"></span></span>
+            </button>
+            <button type="button" class="story-nav-btn" data-index="1" aria-label="2. Sahne">
+              <span class="story-bar"><span class="story-bar-fill"></span></span>
+            </button>
+            <button type="button" class="story-nav-btn" data-index="2" aria-label="3. Sahne">
+              <span class="story-bar"><span class="story-bar-fill"></span></span>
+            </button>
+          </div>
+
+        </div>
+
+        <div class="hero-actions-group">
+          <a href="https://wa.me/905538525308?text=Merhaba%20Batuhan%20Bey%2C%20tapu%2Fveraset%20belgelerimin%20foto%C4%9Fraf%C4%B1n%C4%B1%20iletiyorum%2C%20%C3%B6n%20inceleme%20yapar%20m%C4%B1s%C4%B1n%C4%B1z%3F" class="button button-wa magnetic-btn" target="_blank" rel="noopener">
+            <span>📲</span> WhatsApp'tan Evrak Gönder (Ön İnceleme)
+          </a>
+          <a href="tel:+905538525308" class="button button-red magnetic-btn">
+            <span>📞</span> 0553 852 53 08 Ara
+          </a>
+        </div>
+      </div>
+
+      <!-- Hero Right Stage: Unified 7-Slide Carousel (Video + 6 Services) -->
+      <div class="hero-stage-box" id="heroStageBox">
+        
+        <div class="hero-layer-viewport" id="heroLayerViewport">
+          <div class="hero-layer-track" id="heroLayerTrack">
+
+            <!-- Slide 0: Nokta Tanıtım Animasyonu -->
+            <div class="hero-layer-card hero-video-slide">
+              <video id="heroStageVideo" class="carousel-inner-video" autoplay muted playsinline preload="auto">
+                <source src="assets/nokta-intro.mp4" type="video/mp4">
+                Tarayıcınız video etiketini desteklemiyor.
+              </video>
+            </div>
+
+            <!-- Slide 1: Veraset Beyanname İşleri -->
+            <div class="hero-layer-card hero-content-slide">
+              <div class="box-top-tag">
+                <span>GİB & VUK</span>
+                <span class="badge-green">Danışma Hattı Açık</span>
+              </div>
+              <div class="card-body-content">
+                <div class="card-icon-badge">📋</div>
+                <h3>1. Veraset Beyanname İşleri</h3>
+                <p>
+                  Merhumun vefatını takiben 7338 Sayılı Kanun gereği 4 ay içinde verilmesi zorunlu olan Veraset ve İntikal Vergisi Beyannamesinin hazırlanması, vergi dairesine sunulması ve tahakkuk eden verginin takibi.
+                </p>
+              </div>
+            </div>
+
+            <!-- Slide 2: Miras Araştırma -->
+            <div class="hero-layer-card hero-content-slide">
+              <div class="box-top-tag">
+                <span>TKGM & BELEDİYE</span>
+                <span class="badge-green">Danışma Hattı Açık</span>
+              </div>
+              <div class="card-body-content">
+                <div class="card-icon-badge">🔍</div>
+                <h3>2. Miras Araştırma (Mülk Tespiti)</h3>
+                <p>
+                  Merhuma ait bilinmeyen, eski tapulu, hisseli veya kayıp gayrimenkullerin Tapu ve Kadastro Genel Müdürlüğü (TKGM) ve belediye arşivlerinden araştırılarak gün yüzüne çıkarılması.
+                </p>
+              </div>
+            </div>
+
+            <!-- Slide 3: Belediye & Tapu Kayıt Alma -->
+            <div class="hero-layer-card hero-content-slide">
+              <div class="box-top-tag">
+                <span>RAYİÇ & İMAR</span>
+                <span class="badge-green">Danışma Hattı Açık</span>
+              </div>
+              <div class="card-body-content">
+                <div class="card-icon-badge">🏛️</div>
+                <h3>3. Belediye & Tapu Kayıt Alma</h3>
+                <p>
+                  Ataşehir Belediyesi ve çevre ilçe belediyelerinden emlak vergisi rayiç değer belgesi, imar durumu bilgisi ve tapu müdürlüklerindeki dosyanız için gerekli resmi kütük kayıt suretlerinin temini.
+                </p>
+              </div>
+            </div>
+
+            <!-- Slide 4: Adınıza Tescil ve Takip -->
+            <div class="hero-layer-card hero-content-slide">
+              <div class="box-top-tag">
+                <span>WEB TAPU & TESCİL</span>
+                <span class="badge-green">Danışma Hattı Açık</span>
+              </div>
+              <div class="card-body-content">
+                <div class="card-icon-badge">🔑</div>
+                <h3>4. Adınıza Tescil ve Takip</h3>
+                <p>
+                  Miras kalan taşınmazların Web Tapu sistemi üzerinden mirasçılar adına tescil edilmesi, harçların yatırılması ve yeni tapu senetlerinin mirasçılara teslim edilmesine kadar uçtan uca takip.
+                </p>
+              </div>
+            </div>
+
+            <!-- Slide 5: Bankalardaki Paranın Takibi -->
+            <div class="hero-layer-card hero-content-slide">
+              <div class="box-top-tag">
+                <span>MEVDUAT İNTİKALİ</span>
+                <span class="badge-green">Danışma Hattı Açık</span>
+              </div>
+              <div class="card-body-content">
+                <div class="card-icon-badge">🏦</div>
+                <h3>5. Bankalardaki Paranın Takibi</h3>
+                <p>
+                  Vefat eden kişiye ait mevduat, vadeli hesap, fon ve hisse senetlerinin bankalardan tespiti, veraset vergi dairesinden banka ilişik kesme yazısının alınarak paranın mirasçılara intikali.
+                </p>
+              </div>
+            </div>
+
+            <!-- Slide 6: Araçlar ile İlgili Noter Tescili -->
+            <div class="hero-layer-card hero-content-slide">
+              <div class="box-top-tag">
+                <span>NOTER ARAÇ DEVRİ</span>
+                <span class="badge-green">Danışma Hattı Açık</span>
+              </div>
+              <div class="card-body-content">
+                <div class="card-icon-badge">🚗</div>
+                <h3>6. Araçlar ile İlgili Noter Tescili</h3>
+                <p>
+                  Merhuma ait otomobil, kamyonet, ticari plaka ve araçların vergi ilişiğinin kesilmesi sonrasında yetkili noterde mirasçılar adına ruhsat devir ve tescil işlemlerinin yürütülmesi.
+                </p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- Floating Prev / Next Controls -->
+        <button type="button" class="hero-stage-nav prev" id="heroStagePrev" aria-label="Önceki Slayt">‹</button>
+        <button type="button" class="hero-stage-nav next" id="heroStageNext" aria-label="Sonraki Slayt">›</button>
+
+        <!-- 7 Dots Bar (Video + 6 Hizmet) -->
+        <div class="hero-layer-dots" id="heroLayerDots">
+          <span class="h-dot active" data-index="0" title="Animasyon"></span>
+          <span class="h-dot" data-index="1" title="Veraset Beyanname"></span>
+          <span class="h-dot" data-index="2" title="Miras Araştırma"></span>
+          <span class="h-dot" data-index="3" title="Belediye & Tapu Kayıt"></span>
+          <span class="h-dot" data-index="4" title="Adınıza Tescil"></span>
+          <span class="h-dot" data-index="5" title="Banka Mevduat"></span>
+          <span class="h-dot" data-index="6" title="Araç Noter Tescil"></span>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ========================================================
+     4. PROOF & TRANSPARENCY STRIP
+======================================================== -->
+
+<!-- ========================================================
+     2035 INTERACTIVE DEED PROCESS SIMULATOR (HUD NODE GRAPH)
+======================================================== -->
+<section class="node-simulator-section" id="islem-asamalari">
+  <div class="site-width">
+    <div class="text-center" style="margin-bottom: 35px;">
+      <span class="eyebrow">ADIM ADIM RESMİ PROSEDÜR</span>
+      <h2 class="section-head">Resmi İşlem Aşamaları ve Kurumlar</h2>
+      <p class="section-sublead">
+        İşlem türünüzü seçin; Noter, Vergi Dairesi, Belediye ve Tapu Müdürlüğü arasındaki tüm adımları ve resmi süreleri şeffafça inceleyin.
+      </p>
+    </div>
+
+    <div class="simulator-hud-container">
+      <!-- Flow Tabs -->
+      <div class="flow-tabs-pills" id="flowTabsContainer">
+        <button class="flow-tab-btn active" onclick="selectFlowTab('intikal')">
+          <span>⚡</span> Veraset & İntikal
+          <span class="tab-badge">4 Adım</span>
+        </button>
+        <button class="flow-tab-btn" onclick="selectFlowTab('taksim')">
+          <span>⚖️</span> Miras Taksimi (Paylaşım)
+          <span class="tab-badge">4 Adım</span>
+        </button>
+        <button class="flow-tab-btn" onclick="selectFlowTab('satis')">
+          <span>🏠</span> Satış & Tapu Devri
+          <span class="tab-badge">3 Adım</span>
+        </button>
+        <button class="flow-tab-btn" onclick="selectFlowTab('ipotek')">
+          <span>🔓</span> İpotek & Haciz Terkini
+          <span class="tab-badge">3 Adım</span>
+        </button>
+      </div>
+
+      <!-- Connecting Beam -->
+      <div style="position: relative;">
+        <div class="node-connector-beam">
+          <div class="node-connector-pulse"></div>
+        </div>
+
+        <!-- 4 Pipeline Nodes -->
+        <div class="nodes-pipeline" id="nodesPipeline">
+          <!-- Node 1 -->
+          <div class="node-item active" id="node-item-1" onclick="selectNodeStep(0)">
+            <div class="node-step-indicator">01</div>
+            <span class="node-icon" id="node-icon-1">🏛️</span>
+            <div class="node-title" id="node-title-1">Mirasçılık Belgesi</div>
+            <div class="node-place" id="node-place-1">Noter / Sulh Hukuk</div>
+          </div>
+          <!-- Node 2 -->
+          <div class="node-item" id="node-item-2" onclick="selectNodeStep(1)">
+            <div class="node-step-indicator">02</div>
+            <span class="node-icon" id="node-icon-2">📊</span>
+            <div class="node-title" id="node-title-2">Veraset Beyannamesi</div>
+            <div class="node-place" id="node-place-2">Vergi Dairesi (GİB)</div>
+          </div>
+          <!-- Node 3 -->
+          <div class="node-item" id="node-item-3" onclick="selectNodeStep(2)">
+            <div class="node-step-indicator">03</div>
+            <span class="node-icon" id="node-icon-3">🏢</span>
+            <div class="node-title" id="node-title-3">Rayiç & Borçsuzluk</div>
+            <div class="node-place" id="node-place-3">İlçe Belediyesi</div>
+          </div>
+          <!-- Node 4 -->
+          <div class="node-item" id="node-item-4" onclick="selectNodeStep(3)">
+            <div class="node-step-indicator">04</div>
+            <span class="node-icon" id="node-icon-4">📜</span>
+            <div class="node-title" id="node-title-4">Tapu Tescili</div>
+            <div class="node-place" id="node-place-4">Tapu Müdürlüğü (Web-Tapu)</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Node Detail HUD Card -->
+      <div class="node-display-hud" id="nodeDisplayHud">
+        <div class="hud-left-meta">
+          <span class="hud-tag" id="hudStepTag">AŞAMA 01 · HUKUKİ DAYANAK</span>
+          <h3 class="hud-title" id="hudStepTitle">Mirasçılık Belgesi (Veraset İlamı) Çıkarılması</h3>
+          <p class="hud-desc" id="hudStepDesc">
+            Vefat eden murisin yasal mirasçılarının ve pay oranlarının tespiti için Noterlik veya Sulh Hukuk Mahkemesi müracaatının yapılması.
+          </p>
+
+          <div class="hud-specs-grid">
+            <div class="hud-spec-card">
+              <div class="hud-spec-label">Resmi Tamamlanma Süresi</div>
+              <div class="hud-spec-val" id="hudSpecTime">Aynı Gün (1 - 2 Saat)</div>
+            </div>
+            <div class="hud-spec-card">
+              <div class="hud-spec-label">Nokta Danışmanlık Desteği</div>
+              <div class="hud-spec-val" id="hudSpecRole">Vekaletle Randevu & Evrak Takibi</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="hud-right-action">
+          <div class="hud-action-card">
+            <h4>Bu Aşamada mısınız?</h4>
+            <p>Elinizdeki mevcut belgelerin fotoğrafını WhatsApp'tan gönderin, eksik evrak kalmadan süreci başlatalım.</p>
+            <a href="https://wa.me/905538525308?text=Merhaba%20Nokta%20Dan%C4%B1%C5%9Fmanl%C4%B1k%2C%20tapu%20s%C3%BCrecimde%20bu%20a%C5%9Famaday%C4%B1m%3A%20" id="hudWaBtn" class="button button-wa magnetic-btn" style="width: 100%;" target="_blank" rel="noopener">
+              <span>📲</span> WhatsApp'tan Dosya Başlat
+            </a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+
+<!-- ========================================================
+     5. SECTION: OPERASYONEL ÇÖZÜMLER (17 SPECIALIZED SERVICES)
+        (NO "YENİ" BADGES, CLEAN BOUTIQUE CARDS)
+======================================================== -->
+<section class="content-section ops-section" id="operasyonel">
+  <div class="site-width">
+    <div class="text-center">
+      <span class="eyebrow">81 İLDE DESTEK</span>
+      <h2 class="section-head">Hizmetlerimiz</h2>
+      <p class="section-sublead">
+        Tapu daireleri, belediyeler ve icra müdürlüklerindeki karmaşık dosya ve evrak yükünü 
+        üzerinizden alıyor; taşınmazlarınız için profesyonel süreç takibi sağlıyoruz.
+      </p>
+
+      <!-- Category Filter Pills -->
+      <div class="ops-filter-container">
+        <button class="ops-filter-btn active" onclick="filterOps('all', this)">Tüm İşlemler (17)</button>
+        <button class="ops-filter-btn" onclick="filterOps('miras', this)">Miras & İntikal</button>
+        <button class="ops-filter-btn" onclick="filterOps('tapu', this)">Tapu & Kadastro</button>
+        <button class="ops-filter-btn" onclick="filterOps('imar', this)">İmar & Ekspertiz</button>
+        <button class="ops-filter-btn" onclick="filterOps('icra', this)">İcra & Haciz Çözümleri</button>
+      </div>
+    </div>
+
+    <!-- 17 Cards Grid (Clean, Without "YENİ") -->
+    <div class="ops-grid" id="ops-card-container">
+
+      <!-- Card 1 -->
+      <div class="ops-card" data-cat="imar">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">📐</div>
+            <span class="ops-category-label">İMAR & BELEDİYE</span>
+          </div>
+          <h4>İmar Durumu Sorgulama</h4>
+          <p>Parselin yapılaşma şartlarını, taban alanı katsayısını (TAKS/KAKS), terk durumlarını ve güncel imar plan notlarını resmi kurumlardan sorgulayıp detaylı raporluyoruz.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0mar%20durumu%20sorgulama%20hizmeti%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0mar%20durumu%20sorgulama%20hizmeti%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="ops-card" data-cat="imar">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🏢</div>
+            <span class="ops-category-label">YAPI & İSKAN</span>
+          </div>
+          <h4>Bina İskan Araştırma</h4>
+          <p>Belediye ve Çevre Şehircilik arşivlerinde yapının Yapı Kullanım İzin Belgesi (İskan) durumunu, onaylı mimari projesini ve tadilat şerhlerini detaylıca araştırıp raporluyoruz.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Bina%20iskan%20ara%C5%9Ft%C4%B1rma%20hizmeti%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Bina%20iskan%20ara%C5%9Ft%C4%B1rma%20hizmeti%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="ops-card" data-cat="tapu">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🤝</div>
+            <span class="ops-category-label">TAPU DEVRİ</span>
+          </div>
+          <h4>Alım & Satım İşlemleri</h4>
+          <p>Güvenli devir süreçleri, bloke çek / TapuTakas koordinasyonu, Web Tapu randevu yönetimi ve tapu kütüğünün sorunsuz el değiştirmesi.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Al%C4%B1m%20sat%C4%B1m%20tapu%20devir%20i%C5%9Flemleri%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Al%C4%B1m%20sat%C4%B1m%20tapu%20devir%20i%C5%9Flemleri%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 4 -->
+      <div class="ops-card" data-cat="miras">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">📜</div>
+            <span class="ops-category-label">MİRAS HUKUKU</span>
+          </div>
+          <h4>Veraset & İntikal</h4>
+          <p>Miras kalan taşınmazların vergi dairesi beyan süreçleri, ilişik kesme belgesi temini ve tapu müdürlüğünde mirasçılar adına yeni tescil işlemleri.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Veraset%20ve%20intikal%20i%C5%9Flemlerim%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Veraset%20ve%20intikal%20i%C5%9Flemlerim%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 5 -->
+      <div class="ops-card" data-cat="miras">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🧾</div>
+            <span class="ops-category-label">VERGİ & BORÇSUZLUK</span>
+          </div>
+          <h4>Vergi İlişik Kesme</h4>
+          <p>İlgili Vergi Dairesi ve Belediye nezdinde gayrimenkule veya merhuma ait tahakkuk etmiş emlak ve intikal vergisi borç temizleme süreçleri.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Vergi%20ili%C5%9Fik%20kesme%20i%C5%9Flemleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Vergi%20ili%C5%9Fik%20kesme%20i%C5%9Flemleri%20hakk%C4%B1nda%20bilgi%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 6 -->
+      <div class="ops-card" data-cat="tapu">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">✂️</div>
+            <span class="ops-category-label">HARİTA & KADASTRO</span>
+          </div>
+          <h4>İfraz & Tevhit</h4>
+          <p>Parsellerin yasal mevzuata uygun olarak bölünmesi (ifraz) veya komşu parsellerle birleştirilmesi (tevhit) teknik takip ve tescil süreçleri.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0fraz%20ve%20tevhit%20i%C5%9Flemleri%20i%C3%A7in%20bilgi%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0fraz%20ve%20tevhit%20i%C5%9Flemleri%20i%C3%A7in%20bilgi%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 7 -->
+      <div class="ops-card" data-cat="tapu">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🌐</div>
+            <span class="ops-category-label">YABANCI İŞLEMLERİ</span>
+          </div>
+          <h4>Yabancı Satış</h4>
+          <p>Yabancı uyruklu şahısların taşınmaz ediniminde değerleme raporu, vatandaşlık uygunluk belgesi ve tapu devir izinlerinin takibi.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Yabanc%C4%B1%20sat%C4%B1%C5%9F%20i%C5%9Flemleri%20hakk%C4%B1nda%20dan%C4%B1%C5%9Fmak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Yabanc%C4%B1%20sat%C4%B1%C5%9F%20i%C5%9Flemleri%20hakk%C4%B1nda%20dan%C4%B1%C5%9Fmak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 8 -->
+      <div class="ops-card" data-cat="tapu">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🔓</div>
+            <span class="ops-category-label">ŞERH TERKİNİ</span>
+          </div>
+          <h4>İpotek Fekki</h4>
+          <p>Banka konut kredisi veya şahıs ipoteği borcu biten mülklerin tapu kütüğündeki ipotek şerhinin resmi fek yazısıyla kaldırılması.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0potek%20fekki%20i%C5%9Flemleri%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0potek%20fekki%20i%C5%9Flemleri%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 9 -->
+      <div class="ops-card" data-cat="tapu">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🏗️</div>
+            <span class="ops-category-label">CİNS TAHSİSİ</span>
+          </div>
+          <h4>Cins Değişikliği</h4>
+          <p>Arsadan binaya geçiş, kat mülkiyeti tesisi veya dükkan/konut gibi kullanım amacı değişimlerinin tapu kütüğüne tescili.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Cins%20de%C4%9Fi%C5%9Fikli%C4%9Fi%20i%C5%9Flemleri%20i%C3%A7in%20bilgi%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Cins%20de%C4%9Fi%C5%9Fikli%C4%9Fi%20i%C5%9Flemleri%20i%C3%A7in%20bilgi%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 10 -->
+      <div class="ops-card" data-cat="imar">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🏛️</div>
+            <span class="ops-category-label">EMLAK BEYANI</span>
+          </div>
+          <h4>Belediye Rayiç</h4>
+          <p>Taşınmazın bağlı olduğu belediyeden güncel emlak beyan değerinin alınması, borçsuzluk belgesi ve harç matrahı tespiti.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Belediye%20rayi%C3%A7%20de%C4%9Fer%20belgesi%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Belediye%20rayi%C3%A7%20de%C4%9Fer%20belgesi%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 11 -->
+      <div class="ops-card" data-cat="miras">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">👨‍👩‍👧‍👦</div>
+            <span class="ops-category-label">AİLE & PAYLAŞIM</span>
+          </div>
+          <h4>Aile İçi Tapu Danışmanlığı</h4>
+          <p>Aile içi tapu sorunları, hisseli mülk devirleri, hibe (bağış), intifa hakkı ve miras taksim sözleşmesi süreçlerinde uzman danışmanlık.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Aile%20i%C3%A7i%20tapu%20dan%C4%B1%C5%9Fmanl%C4%B1%C4%9F%C4%B1%20hakk%C4%B1nda%20g%C3%B6r%C3%BC%C5%9Fmek%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Aile%20i%C3%A7i%20tapu%20dan%C4%B1%C5%9Fmanl%C4%B1%C4%9F%C4%B1%20hakk%C4%B1nda%20g%C3%B6r%C3%BC%C5%9Fmek%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 12 -->
+      <div class="ops-card" data-cat="icra">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">⚖️</div>
+            <span class="ops-category-label">İCRA TAKİBİ</span>
+          </div>
+          <h4>İcra Takip İşlemleri</h4>
+          <p>İcra dairelerindeki taşınmaz ile ilgili tüm haciz, kıymet takdiri ve dosya evrak süreçlerinin profesyonel yönetimi.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0cra%20takip%20i%C5%9Flemleri%20hakk%C4%B1nda%20dan%C4%B1%C5%9Fmak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0cra%20takip%20i%C5%9Flemleri%20hakk%C4%B1nda%20dan%C4%B1%C5%9Fmak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 13 -->
+      <div class="ops-card" data-cat="icra">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🧹</div>
+            <span class="ops-category-label">ŞERH TERKİNİ</span>
+          </div>
+          <h4>Haciz Kaldırma</h4>
+          <p>Tapu üzerindeki haciz şerhlerinin kaldırılması, fek yazılarının alınması ve borç ödeme süreçlerinin takibi.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Tapudaki%20haciz%20kald%C4%B1rma%20i%C5%9Flemi%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Tapudaki%20haciz%20kald%C4%B1rma%20i%C5%9Flemi%20i%C3%A7in%20destek%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 14 -->
+      <div class="ops-card" data-cat="icra">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🔨</div>
+            <span class="ops-category-label">İHALE TAKİBİ</span>
+          </div>
+          <h4>İcra Satış Takibi</h4>
+          <p>İcra yoluyla satışa çıkarılan taşınmazların elektronik ihale ilanları, şartnameler ve süreç takibi.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0cra%20sat%C4%B1%C5%9F%20ve%20ihale%20takibi%20i%C3%A7in%20bilgi%20almak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0cra%20sat%C4%B1%C5%9F%20ve%20ihale%20takibi%20i%C3%A7in%20bilgi%20almak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 15 -->
+      <div class="ops-card" data-cat="icra">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">📁</div>
+            <span class="ops-category-label">DOSYA İNFAZ</span>
+          </div>
+          <h4>İcra Dosyası Kapatma</h4>
+          <p>Borç ödendikten sonra icra dosyasının resmi olarak infaz edilip kapatılması ve tapu kayıtlarının arındırılması.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0cra%20dosyas%C4%B1%20kapatma%20hizmeti%20hakk%C4%B1nda%20g%C3%B6r%C3%BC%C5%9Fmek%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20%C4%B0cra%20dosyas%C4%B1%20kapatma%20hizmeti%20hakk%C4%B1nda%20g%C3%B6r%C3%BC%C5%9Fmek%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 16 -->
+      <div class="ops-card" data-cat="icra">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🛡️</div>
+            <span class="ops-category-label">RİSK TESPİTİ</span>
+          </div>
+          <h4>Haciz Şerhi Sorgulama</h4>
+          <p>Tapu üzerinde haciz, ihtiyati tedbir veya icra şerhi olup olmadığının detaylı resmi kayıtlardan araştırılması.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Tapu%20haciz%20ve%20tedbir%20%C5%9Ferhi%20sorgulamas%C4%B1%20yapt%C4%B1rmak%20istiyorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20Tapu%20haciz%20ve%20tedbir%20%C5%9Ferhi%20sorgulamas%C4%B1%20yapt%C4%B1rmak%20istiyorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+      <!-- Card 17 -->
+      <div class="ops-card" data-cat="icra">
+        <div>
+          <div class="ops-card-header">
+            <div class="ops-card-icon">🚫</div>
+            <span class="ops-category-label">E-HACİZ ÇÖZÜMÜ</span>
+          </div>
+          <h4>E-Haciz & Bloke Kaldırma</h4>
+          <p>Vergi dairelerinden uygulanan elektronik haciz ve banka hesap blokelerinin kaldırılması için dosya ve uzlaşma danışmanlığı.</p>
+        </div>
+        <div class="ops-card-bottom">
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20E-haciz%20ve%20banka%20bloke%20kald%C4%B1rma%20dan%C4%B1%C5%9Fmanl%C4%B1%C4%9F%C4%B1%20i%C3%A7in%20ula%C5%9F%C4%B1yorum." class="ops-link-detail" target="_blank" rel="noopener">Ayrıntıları Gör →</a>
+          <a href="https://wa.me/905538525308?text=Merhaba%2C%20E-haciz%20ve%20banka%20bloke%20kald%C4%B1rma%20dan%C4%B1%C5%9Fmanl%C4%B1%C4%9F%C4%B1%20i%C3%A7in%20ula%C5%9F%C4%B1yorum." class="ops-wa-pill" target="_blank" rel="noopener">💬 Danış</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ========================================================
+     7. SECTION: DUAL INTERACTIVE TOOLS
+        Tool 1: Yasal Süre Hesaplayıcı
+        Tool 2: Evrak Kontrol Robotu
+======================================================== -->
+<section class="content-section tools-section" id="hesaplayici">
+  <div class="site-width">
+    <div class="text-center">
+      <span class="eyebrow">HESAPLAMA VE KONTROL MODÜLLERİ</span>
+      <h2 class="section-head">Dosyanızın Durumunu Canlı Test Edin</h2>
+      <p class="section-sublead">
+        Cezalı duruma düşmemek ve eksik evrakla vakit kaybetmemek için interaktif modüllerimizi kullanın.
+      </p>
+    </div>
+
+    <div class="tools-grid-dual">
+
+      <!-- Tool 1: Yasal Süre & Ceza Hesaplama -->
+      <div class="tool-card-box">
+        <h3><span>⏱️</span> Yasal Beyanname Sayacı</h3>
+        <p class="tool-lead">
+          7338 Sayılı Veraset ve İntikal Vergisi Kanunu'na göre vefat tarihinden itibaren kalan sürenizi hesaplayın.
+        </p>
+
+        <div class="tool-field">
+          <label for="vefat-date">Vefat Tarihi (Ölüm Tarihi):</label>
+          <input type="date" id="vefat-date" onchange="runDateCalculation()">
+        </div>
+
+        <div class="tool-field">
+          <label for="mirasci-lokasyon">Mirasçıların ve Ölümün Yeri:</label>
+          <select id="mirasci-lokasyon" onchange="runDateCalculation()">
+            <option value="4">Ölüm Türkiye'de — Mirasçılar Türkiye'de (Yasal Süre: 4 Ay)</option>
+            <option value="6_tr">Ölüm Türkiye'de — Mirasçılar Yurtdışında (Yasal Süre: 6 Ay)</option>
+            <option value="6_yd">Ölüm Yurtdışında — Mirasçılar Türkiye'de (Yasal Süre: 6 Ay)</option>
+            <option value="8">Ölüm Yurtdışında — Mirasçılar Başka Ülkede (Yasal Süre: 8 Ay)</option>
+          </select>
+        </div>
+
+        <div class="calc-result-display">
+          <div class="calc-days-big" id="calc-day-val">--</div>
+          <div id="calc-status-text" style="font-weight: 800; font-size: 1.05rem; margin-bottom: 6px;">Tarih Seçiniz</div>
+          <div id="calc-advice" style="font-size: 0.85rem; color: var(--quiet); margin-bottom: 16px; line-height: 1.5;">
+            Normal sürenin bitiminde vergi dairesi 15+15 gün ek süre hakkı tanır.
+          </div>
+          <a href="https://wa.me/905538525308" id="calc-wa-action" class="button button-wa" style="width: 100%;" target="_blank" rel="noopener">
+            Dosyayı Gecikmeden Başlatalım
+          </a>
+        </div>
+      </div>
+
+      <!-- Tool 2: Evrak Kontrol Robotu -->
+      <div class="tool-card-box" id="evrak-robotu">
+        <h3><span>📋</span> Evrak Hazırlık Robotu</h3>
+        <p class="tool-lead">
+          Elinizde hazır olan belgeleri işaretleyin; kalan eksikleri WhatsApp'tan bize bildirin.
+        </p>
+
+        <div style="display: flex; justify-content: space-between; font-size: 0.85rem; font-weight: 700;">
+          <span>Hazırlık Seviyesi</span>
+          <span id="evrak-pct" style="color: var(--red);">%0</span>
+        </div>
+        <div class="progress-track-bg">
+          <div class="progress-track-fill" id="evrak-fill"></div>
+        </div>
+
+        <div class="check-item-card" onclick="checkDoc(this, 'Veraset İlamı')">
+          <div class="check-box-ui">✓</div>
+          <div class="check-content-txt">
+            <strong>1. Veraset İlamı (Mirasçılık Belgesi)</strong>
+            <span>Noter veya Sulh Hukuk Mahkemesi onaylı belge</span>
+          </div>
+        </div>
+
+        <div class="check-item-card" onclick="checkDoc(this, 'Tapu Fotokopisi')">
+          <div class="check-box-ui">✓</div>
+          <div class="check-content-txt">
+            <strong>2. Gayrimenkul Tapu Bilgileri</strong>
+            <span>Merhuma ait daire, arsa veya hisseli tapu senetleri</span>
+          </div>
+        </div>
+
+        <div class="check-item-card" onclick="checkDoc(this, 'Belediye Rayiç')">
+          <div class="check-box-ui">✓</div>
+          <div class="check-content-txt">
+            <strong>3. Belediye Emlak Rayiç Değeri</strong>
+            <span>İlgili belediyeden borcu yoktur & rayiç yazısı</span>
+          </div>
+        </div>
+
+        <div class="check-item-card" onclick="checkDoc(this, 'Banka Bakiyesi')">
+          <div class="check-box-ui">✓</div>
+          <div class="check-content-txt">
+            <strong>4. Banka Vefat Tarihi Bakiye Yazısı</strong>
+            <span>Banka hesapları ve fon döküm belgesi</span>
+          </div>
+        </div>
+
+        <div class="check-item-card" onclick="checkDoc(this, 'Araç Ruhsatı')">
+          <div class="check-box-ui">✓</div>
+          <div class="check-content-txt">
+            <strong>5. Araç Ruhsatı & Noter Yazısı</strong>
+            <span>Merhuma ait motorlu araçların belgeleri</span>
+          </div>
+        </div>
+
+        <a href="https://wa.me/905538525308" id="evrak-wa-action" class="button button-red" style="width: 100%; margin-top: 14px;" target="_blank" rel="noopener">
+          📲 Eksik Belgeler İçin Destek Al
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ========================================================
+     8. SECTION: COMPARISON TABLE
+======================================================== -->
+<section class="content-section compare-section" id="karsilastirma">
+  <div class="site-width">
+    <div class="text-center">
+      <span class="eyebrow">ŞEFFAF KIYASLAMA</span>
+      <h2 class="section-head">Kendi Başınıza Yapmak vs Nokta Tapu Takip</h2>
+      <p class="section-sublead">
+        Kurumlar arası bürokrasiyle zaman kaybetmek yerine vekaletle profesyonel takibi tercih edin.
+      </p>
+    </div>
+
+    <div class="compare-overflow">
+      <table class="compare-table">
+        <thead>
+          <tr>
+            <th>İşlem Adımı</th>
+            <th>❌ Kendi Başınıza Yaparsanız</th>
+            <th>✅ Nokta Tapu Takip Güvencesi</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="compare-tr">
+            <td>Kurum Mesafe & Ziyaret</td>
+            <td>Noter, Ataşehir Belediyesi, Vergi Dairesi ve Tapu Dairesi arasında günlerce sıra beklersiniz.</td>
+            <td>Tek bir vekaletname ile tüm müracaatlar ve takipler sizin adınıza yerinde yürütülür.</td>
+          </tr>
+          <tr class="compare-tr">
+            <td>Yasal Beyan & Ceza Riski</td>
+            <td>4 aylık süre karmaşasında gecikme faizi ve usulsüzlük cezasıyla karşılaşma riski yüksektir.</td>
+            <td>Yasal süre takvimi titizlikle kontrol edilir, cezalı duruma düşmeniz kesin olarak engellenir.</td>
+          </tr>
+          <tr class="compare-tr">
+            <td>Banka & Araç İntikali</td>
+            <td>Banka şubeleriyle yazışmalar ve noter devirlerinde eksik evrak yüzünden dosya günlerce bekler.</td>
+            <td>Vergi dairesinden ilişik kesme yazıları hızla alınarak banka ve noter devirleri kilitlenir.</td>
+          </tr>
+          <tr class="compare-tr">
+            <td>Web Tapu Randevu Takibi</td>
+            <td>Sistem üzerinden SMS onayı ve döner sermaye harç yatırma adımlarında teknik tıkanma yaşanır.</td>
+            <td>Web Tapu sistemi uzman personelce anlık izlenir, randevu saati önceden organize edilir.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<!-- ========================================================
+     9. SECTION: PROCESS (ÇALIŞMA SÜRECİ)
+======================================================== -->
+<section class="content-section process-section">
+  <div class="site-width">
+    <div class="text-center">
+      <span class="eyebrow">ÇALIŞMA SÜRECİ</span>
+      <h2 class="section-head">Önce neye ihtiyacınız olduğunu anlayalım.</h2>
+      <p class="section-sublead">
+        Sade bir ilk görüşmeyle başlayın. İşin kapsamı, hizmet bedeli ve sonraki adım netleşmeden işlem taahhüdü verilmez.
+      </p>
+    </div>
+
+    <div class="process-grid-4">
+      <div class="process-item-box">
+        <span class="process-step-badge">01</span>
+        <h4>İşleminizi Anlatın</h4>
+        <p>Tapu, veraset veya intikal işleminizin türünü ve mevcut aşamasını telefonla paylaşın.</p>
+      </div>
+
+      <div class="process-item-box">
+        <span class="process-step-badge">02</span>
+        <h4>Kapsamı Netleştirelim</h4>
+        <p>Dosyanız için gereken belgeleri, kurum adımlarını ve hizmet bedelini açıkça konuşalım.</p>
+      </div>
+
+      <div class="process-item-box">
+        <span class="process-step-badge">03</span>
+        <h4>Takip Planı Çıkarılsın</h4>
+        <p>Gerekli kurum başvuruları, rayiç alımı ve veraset beyan adımları sıraya konulur.</p>
+      </div>
+
+      <div class="process-item-box">
+        <span class="process-step-badge">04</span>
+        <h4>Süreci Birlikte Tamamlayalım</h4>
+        <p>Web Tapu randevusundan yeni tapu senetlerinizin teslimine kadar dosyanız takip edilir.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========================================================
+     10. SECTION: FAQ ACCORDION
+======================================================== -->
+<section class="content-section faq-section" id="sss">
+  <div class="site-width">
+    <div class="text-center">
+      <span class="eyebrow">SIK SORULANLAR</span>
+      <h2 class="section-head">İlk aramadan önce<br>aklınızdakiler.</h2>
+      <p class="section-sublead">
+        İşlem türünüzü ve mevcut durumu anlatın; evrak hazırlığı ile takip adımlarını birlikte netleştirelim.
+      </p>
+    </div>
+
+    <div class="faq-list-wrap">
+
+      <div class="faq-card-panel">
+        <button class="faq-trigger-btn" onclick="toggleAccordion(this)">
+          <span>Tapu takip danışmanlığı ne sağlar?</span>
+          <span class="faq-arrow-icon">▼</span>
+        </button>
+        <div class="faq-drawer-body">
+          <div class="faq-drawer-content">
+            Nokta, tapu dosyanızın işlem türüne göre evrak hazırlığı ve takip adımlarını planlamanıza destek olur. 
+            Üstleneceğimiz hizmet kapsamı, sorumluluklar ve bedel işe başlamadan netleştirilir. 
+            Başvuru kararı ve resmî sonuç ilgili kurumun yetkisindedir.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-card-panel">
+        <button class="faq-trigger-btn" onclick="toggleAccordion(this)">
+          <span>Veraset ve tapu intikal işlemlerinde yardımcı oluyor musunuz?</span>
+          <span class="faq-arrow-icon">▼</span>
+        </button>
+        <div class="faq-drawer-body">
+          <div class="faq-drawer-content">
+            Evet. Veraset ve tapu intikali dosyanız için evrak ve kurum adımlarını birlikte değerlendiriyor, 
+            anlaşılan kapsamda takip desteği sunuyoruz. Miras payı konusunda hukuki değerlendirme veya 
+            mirasçılar arasında anlaşmazlık varsa o konuda avukata başvurulmalıdır.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-card-panel">
+        <button class="faq-trigger-btn" onclick="toggleAccordion(this)">
+          <span>Görüşme öncesinde ne hazırlamalıyım?</span>
+          <span class="faq-arrow-icon">▼</span>
+        </button>
+        <div class="faq-drawer-body">
+          <div class="faq-drawer-content">
+            Öncelikle işlem türünü, taşınmazın bulunduğu il/ilçeyi ve mevcut aşamayı bilmeniz yeterlidir. 
+            Hassas belgelerinizi, kimlik numaranızı veya e-Devlet şifrenizi ilk iletişimde paylaşmayın. Belge ihtiyacı işlem özelinde netleştirilir.
+          </div>
+        </div>
+      </div>
+
+      <div class="faq-card-panel">
+        <button class="faq-trigger-btn" onclick="toggleAccordion(this)">
+          <span>Başka şehirdeki tapuların intikalini Ataşehir'den yapabilir miyiz?</span>
+          <span class="faq-arrow-icon">▼</span>
+        </button>
+        <div class="faq-drawer-body">
+          <div class="faq-drawer-content">
+            Evet. Tapu ve Kadastro Genel Müdürlüğü'nün "Yetki Alanı Dışı İşlem" sistemi sayesinde, 
+            Türkiye'nin başka bir ilindeki taşınmazın intikal müracaatını İstanbul Ataşehir'deki ofisimizden vekaleten takip edebilmekteyiz.
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ========================================================
+     11. SECTION: ABOUT & CONTACT MAP
+======================================================== -->
+<section class="content-section about-section" id="iletisim">
+  <div class="site-width">
+    <div class="about-dual-grid">
+
+      <div class="about-text-panel">
+        <span class="eyebrow">İÇERENKÖY · ATAŞEHİR</span>
+        <h3>Nokta Tapu Takip Danışmanlık</h3>
+        <p>
+          İçerenköy Mahallesi Değirmen Yolu Caddesi üzerindeki ofisimizde; tapu, vergi ve intikal 
+          mevzuatındaki bilgi birikimimiz ve saha tecrübemizle vatandaşlarımızın bürokratik 
+          süreçlerinde bağımsız danışmanlık ve profesyonel dosya takibi hizmeti sunuyoruz.
+        </p>
+
+        <div class="contact-meta-group">
+          <div class="meta-row-item">
+            <span>👥</span>
+            <div>
+              <strong>Batuhan AVCI & Hüseyin ÇETİN</strong>
+              <small style="color: var(--quiet);">Tapu & İntikal Süreç Danışmanları</small>
+            </div>
+          </div>
+
+          <div class="meta-row-item">
+            <span>📍</span>
+            <div>
+              <strong>İçerenköy Mah. Değirmen Yolu Cad. No:27B</strong>
+              <small style="color: var(--quiet);">Ataşehir / İstanbul</small>
+            </div>
+          </div>
+
+          <div class="meta-row-item">
+            <span>📞</span>
+            <div>
+              <strong>0553 852 53 08 (Batuhan AVCI) • 0507 913 18 82 (Hüseyin ÇETİN)</strong>
+              <small style="color: var(--quiet);">Doğrudan Danışma & Randevu Hatları</small>
+            </div>
+          </div>
+
+          <div class="meta-row-item">
+            <span>✉️</span>
+            <div>
+              <a href="mailto:bstaputakip@gmail.com">bstaputakip@gmail.com</a>
+            </div>
+          </div>
+
+          <div class="meta-row-item">
+            <span>📸</span>
+            <div>
+              <a href="https://www.instagram.com/noktadanismanlik2020/" target="_blank" rel="noopener">@noktadanismanlik2020 (Instagram)</a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Map -->
+      <div>
+        <div class="map-card-wrapper">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3012.339257008761!2d29.106512!3d40.974441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac65bdf3dc9e7%3A0x7d0ea46261c4701!2zxLBjZXJlbmvDtnksIERlxJ9pcm1lbiBZb2x1IENkLiBObzoyN0IsIDM0NzUyIEF0YcWfZWhpci_EsHN0YW5idWw!5e0!3m2!1str!2str!4v1700000000000!5m2!1str!2str"
+            loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"
+            title="Nokta Tapu Takip Danışmanlık Ataşehir">
+          </iframe>
+        </div>
+        <div style="margin-top: 12px; text-align: center;">
+          <a href="https://www.google.com/maps/search/?api=1&query=%C4%B0%C3%A7erenk%C3%B6y+Mah.+De%C4%9Firmen+Yolu+Cad.+No%3A27B+Ata%C5%9Fehir+%C4%B0stanbul" class="button button-outline" style="width: 100%;" target="_blank" rel="noopener">
+            📍 Google Maps’te Yol Tarifi Al
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ========================================================
+     12. FOOTER & AUTHENTIC LEGAL DISCLAIMER
+======================================================== -->
+<section class="footer-contact-band">
+  <div class="site-width">
+    <span class="eyebrow" style="color: var(--red-soft);">İLK GÖRÜŞME · AÇIK BİLGİ</span>
+    <h2>İşleminizi birlikte netleştirelim.</h2>
+    <p>
+      Tapu, veraset veya intikal işleminizi anlatın; gerekli evrakı, takip adımlarını ve hizmet bedelini Nokta ile netleştirelim.
+    </p>
+
+    <div style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">
+      <a href="tel:+905538525308" class="button button-red">
+        <span>📞</span> 0553 852 53 08 Hemen Arayın
+      </a>
+      <a href="https://wa.me/905538525308?text=Merhaba%2C%20tapu%20ve%20veraset%20i%C5%9Flemleri%20i%C3%A7in%20destek%20almak%20istiyorum." class="button button-wa" target="_blank" rel="noopener">
+        <span>💬</span> WhatsApp ile Yazın
+      </a>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="site-width">
+    <div class="footer-legal-notice">
+      <p>
+        <strong>Yasal Bilgilendirme:</strong> Nokta Tapu Takip Danışmanlık özel bir danışmanlık işletmesidir; 
+        Tapu ve Kadastro Genel Müdürlüğü veya başka bir kamu kurumu değildir. Bu sitedeki içerik genel bilgilendirme amaçlıdır; 
+        resmî işlemler ve kararlar ilgili kamu kurumlarınca yürütülür. Hizmetin kapsamı, ücreti ve mümkün olan adımlar işlem özelinde görüşülür. 
+        Bu site hukuki görüş, avukatlık veya sonuç garantisi sunmaz.
+      </p>
+    </div>
+
+    <div class="footer-bottom-row">
+      <div>
+        <span>© 2026 Nokta Tapu Takip Danışmanlık. Tüm Hakları Saklıdır.</span>
+      </div>
+      <div>
+        <span>İçerenköy · Ataşehir · İstanbul</span>
+      </div>
+      <div>
+        <span>Tasarım: <a href="https://auradigital.com.tr" target="_blank" rel="noopener" style="color: #FFF; font-weight: 700;">Aura Digital</a></span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Persistent Mobile Fixed Call / WA Bar -->
+<div class="mobile-fixed-bar">
+  <a href="https://wa.me/905538525308?text=Merhaba%20Batuhan%20Bey%2C%20tapu%20ve%20veraset%20i%C5%9Flemim%20i%C3%A7in%20bilgi%20almak%20istiyorum." class="mob-wa" target="_blank" rel="noopener">
+    <span>💬</span> WhatsApp
+  </a>
+  <a href="tel:+905538525308" class="mob-tel">
+    <span>📞</span> Hemen Ara
+  </a>
+</div>
+
+<!-- ========================================================
+     INTERACTIVE JAVASCRIPT
+======================================================== -->
+<script>
+// Mobile Nav Toggle
+function toggleMobileMenu() {
+  const nav = document.querySelector('.header-nav');
+  if (nav.style.display === 'flex') {
+    nav.style.display = 'none';
+  } else {
+    nav.style.display = 'flex';
+    nav.style.flexDirection = 'column';
+    nav.style.position = 'absolute';
+    nav.style.top = '100%';
+    nav.style.left = '0';
+    nav.style.right = '0';
+    nav.style.background = '#FFFFFF';
+    nav.style.boxShadow = '0 20px 40px rgba(15, 23, 42, 0.1)';
+    nav.style.padding = '24px';
+    nav.style.borderBottom = '1px solid #DEDBD4';
+  }
+}
+
+// ----------------------------------------------------
+// OPERASYONEL ÇÖZÜMLER FILTER
+// ----------------------------------------------------
+function filterOps(category, btn) {
+  document.querySelectorAll('.ops-filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  const cards = document.querySelectorAll('.ops-card');
+  cards.forEach(card => {
+    if (category === 'all' || card.getAttribute('data-cat') === category) {
+      card.style.display = 'flex';
+      card.style.opacity = '0';
+      card.style.transform = 'translateY(10px)';
+      setTimeout(() => {
+        card.style.opacity = '1';
+        card.style.transform = 'translateY(0)';
+      }, 40);
+    } else {
+      card.style.display = 'none';
+    }
+  });
+}
+
+// ----------------------------------------------------
+// 1. TOOL: YASAL SÜRE HESAPLAMA MOTORU
+// ----------------------------------------------------
+function runDateCalculation() {
+  const vefatDateInput = document.getElementById('vefat-date').value;
+  const lokasyon = document.getElementById('mirasci-lokasyon').value;
+  const dayDisplay = document.getElementById('calc-day-val');
+  const statusText = document.getElementById('calc-status-text');
+  const adviceText = document.getElementById('calc-advice');
+  const waBtn = document.getElementById('calc-wa-action');
+
+  if (!vefatDateInput) {
+    dayDisplay.textContent = '--';
+    statusText.textContent = 'Lütfen Vefat Tarihini Seçin';
+    return;
+  }
+
+  const vefatDate = new Date(vefatDateInput);
+  const today = new Date();
+
+  let ayCount = 4;
+  if (lokasyon === '6_tr' || lokasyon === '6_yd') ayCount = 6;
+  if (lokasyon === '8') ayCount = 8;
+
+  const deadline = new Date(vefatDate);
+  deadline.setMonth(deadline.getMonth() + ayCount);
+
+  const diffTime = deadline - today;
+  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+
+  if (diffDays > 0) {
+    dayDisplay.textContent = diffDays;
+    dayDisplay.style.color = diffDays < 30 ? '#C59B27' : '#16A34A';
+    statusText.textContent = `Yasal Süre İçindesiniz: ${diffDays} Gün Kaldı`;
+    statusText.style.color = diffDays < 30 ? '#C59B27' : '#16A34A';
+    adviceText.textContent = `Son Beyan Tarihiniz: ${deadline.toLocaleDateString('tr-TR')}. Cezai faiz doğmadan dosyanızı vergi dairesine sunmak için süreci başlatalım.`;
+    waBtn.href = `https://wa.me/905538525308?text=Merhaba%2C%20vefat%20tarihimiz%20${vefatDateInput}%20ve%20kalan%20g%C3%BCn%C3%BCm%C3%BCz%20${diffDays}.%20Dosyam%C4%B1z%C4%B1%20h%C4%B1zla%20ba%C5%9Flatmak%20istiyoruz.`;
+  } else {
+    const expiredDays = Math.abs(diffDays);
+    dayDisplay.textContent = `+${expiredDays}`;
+    dayDisplay.style.color = '#B42132';
+    statusText.textContent = 'Yasal Süre Aşılmış Durumda (Gecikmeli)';
+    statusText.style.color = '#B42132';
+    adviceText.textContent = `Yasal süreniz ${expiredDays} gün önce dolmuş. Vergi cezası ve gecikme faizi büyümeden, 15 günlük ek süre kalkanı ve uzlaşma imkanları için derhal müdahale edelim.`;
+    waBtn.href = `https://wa.me/905538525308?text=Merhaba%2C%20vefat%20tarihimiz%20${vefatDateInput}.%20Yasal%20s%C3%BCre%20ge%C3%A7mi%C5%9F%20durumda%2C%20acil%20dan%C4%B1%C5%9Fmanl%C4%B1k%20almak%20istiyorum.`;
+  }
+}
+
+// ----------------------------------------------------
+// 2. TOOL: EVRAK KONTROL LİSTESİ
+// ----------------------------------------------------
+const docSet = new Set();
+const maxDoc = 5;
+
+function checkDoc(elem, docName) {
+  elem.classList.toggle('checked');
+  if (elem.classList.contains('checked')) {
+    docSet.add(docName);
+  } else {
+    docSet.delete(docName);
+  }
+
+  const ratio = Math.round((docSet.size / maxDoc) * 100);
+  document.getElementById('evrak-pct').textContent = `%${ratio}`;
+  document.getElementById('evrak-fill').style.width = `${ratio}%`;
+
+  const btn = document.getElementById('evrak-wa-action');
+  const list = Array.from(docSet).join(', ');
+  btn.href = `https://wa.me/905538525308?text=Merhaba%2C%20haz%C4%B1r%20evraklar%C4%B1m%3A%20${encodeURIComponent(list || 'Yok')}.%20Kalanlar%20i%C3%A7in%20destek%20almak%20istiyorum.`;
+}
+
+// ----------------------------------------------------
+// 3. FAQ ACCORDION
+// ----------------------------------------------------
+function toggleAccordion(btn) {
+  const card = btn.parentElement;
+  const body = card.querySelector('.faq-drawer-body');
+  const isActive = card.classList.contains('active');
+
+  document.querySelectorAll('.faq-card-panel').forEach(c => {
+    c.classList.remove('active');
+    c.querySelector('.faq-drawer-body').style.maxHeight = null;
+  });
+
+  if (!isActive) {
+    card.classList.add('active');
+    body.style.maxHeight = body.scrollHeight + 'px';
+  }
+}
+
+// ----------------------------------------------------
+// 4. UNIFIED 7-SLIDE CAROUSEL (VIDEO + 6 SERVICES)
+// AUTO-FLOW + INTERACTIVE MOUSE DRAG & TOUCH SWIPE
+// ----------------------------------------------------
+(function initUnifiedHeroCarousel() {
+  const stageBox = document.getElementById("heroStageBox");
+  const track = document.getElementById("heroLayerTrack");
+  const viewport = document.getElementById("heroLayerViewport");
+  const video = document.getElementById("heroStageVideo");
+  const cards = document.querySelectorAll(".hero-layer-card");
+  const dots = document.querySelectorAll("#heroLayerDots .h-dot");
+
+  let currentIndex = 0;
+  const total = cards.length;
+  let slideTimer = null;
+  let isHovered = false;
+  let isDragging = false;
+  let startX = 0;
+  let dragDiff = 0;
+  let isPointerDown = false;
+
+  function goToSlide(idx, animate = true) {
+    currentIndex = (idx + total) % total;
+    if (track) {
+      track.style.transition = animate ? "transform 0.85s cubic-bezier(0.16, 1, 0.3, 1)" : "none";
+      track.style.transform = "translateX(-" + (currentIndex * 100) + "%)";
+    }
+
+    dots.forEach((dot, dIdx) => {
+      dot.classList.toggle("active", dIdx === currentIndex);
+    });
+
+    if (currentIndex === 0 && video) {
+      video.currentTime = 0;
+      video.play().catch(() => {});
+    }
+
+    scheduleNext();
+  }
+
+  function nextSlide() {
+    goToSlide(currentIndex + 1);
+  }
+
+  function prevSlide() {
+    goToSlide(currentIndex - 1);
+  }
+
+  function scheduleNext() {
+    clearTimeout(slideTimer);
+    if (isHovered || isDragging) return;
+
+    if (currentIndex === 0) {
+      // Slayt 0 (Video): Video bitince (ended) veya 10 saniye sonra sonraki slayta geçer
+    } else {
+      // Hizmet Slaytları 1..6: 4.0 saniye durup ipeksi yumuşaklıkta otomatik kayar
+      slideTimer = setTimeout(() => {
+        nextSlide();
+      }, 4000);
+    }
+  }
+
+  // Video ended -> geçiş
+  if (video) {
+    video.addEventListener("ended", () => {
+      if (currentIndex === 0 && !isHovered && !isDragging) {
+        nextSlide();
+      }
+    });
+
+    // 10.2 saniyede video bitmiş olmalı
+    setInterval(() => {
+      if (currentIndex === 0 && video.currentTime >= 9.8 && !isHovered && !isDragging) {
+        nextSlide();
+      }
+    }, 1000);
+  }
+
+  // Hover Pause
+  if (stageBox) {
+    stageBox.addEventListener("mouseenter", () => {
+      isHovered = true;
+      clearTimeout(slideTimer);
+    });
+    stageBox.addEventListener("mouseleave", () => {
+      isHovered = false;
+      scheduleNext();
+    });
+  }
+
+  // Arrow buttons
+  const prevBtn = document.getElementById("heroStagePrev");
+  const nextBtn = document.getElementById("heroStageNext");
+  if (prevBtn) {
+    prevBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      prevSlide();
+    });
+  }
+  if (nextBtn) {
+    nextBtn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      nextSlide();
+    });
+  }
+
+  // Dots click
+  dots.forEach(dot => {
+    dot.addEventListener("click", (e) => {
+      e.preventDefault();
+      const idx = parseInt(dot.getAttribute("data-index") || "0", 10);
+      goToSlide(idx);
+    });
+  });
+
+  // MOUSE DRAG & TOUCH SWIPE
+  function dragStart(e) {
+    isPointerDown = true;
+    isDragging = true;
+    clearTimeout(slideTimer);
+    startX = e.type.includes("mouse") ? e.clientX : e.touches[0].clientX;
+    dragDiff = 0;
+    if (track) track.style.transition = "none";
+  }
+
+  function dragMove(e) {
+    if (!isPointerDown) return;
+    const currentX = e.type.includes("mouse") ? e.clientX : e.touches[0].clientX;
+    dragDiff = currentX - startX;
+    const vpWidth = viewport ? viewport.offsetWidth : 400;
+    const offsetPercent = (dragDiff / vpWidth) * 100;
+    const baseTranslate = -(currentIndex * 100);
+    if (track) {
+      track.style.transform = "translateX(" + (baseTranslate + offsetPercent) + "%)";
+    }
+  }
+
+  function dragEnd() {
+    if (!isPointerDown) return;
+    isPointerDown = false;
+    isDragging = false;
+
+    if (Math.abs(dragDiff) > 45) {
+      if (dragDiff > 0) {
+        prevSlide();
+      } else {
+        nextSlide();
+      }
+    } else {
+      goToSlide(currentIndex);
+    }
+  }
+
+  if (viewport) {
+    // Mouse Drag
+    viewport.addEventListener("mousedown", dragStart);
+    window.addEventListener("mousemove", dragMove);
+    window.addEventListener("mouseup", dragEnd);
+
+    // Touch Swipe
+    viewport.addEventListener("touchstart", dragStart, { passive: true });
+    viewport.addEventListener("touchmove", dragMove, { passive: true });
+    viewport.addEventListener("touchend", dragEnd, { passive: true });
+  }
+
+  goToSlide(0);
+})();
+</script>
+
+
+<!-- 2035 Interactive Simulator Engine & Magnetic Buttons -->
+<script>
+const FLOW_DATA = {
+  intikal: {
+    steps: [
+      {
+        num: '01', icon: '🏛️', title: 'Mirasçılık Belgesi', place: 'Noter / Sulh Hukuk',
+        tag: 'AŞAMA 01 · HUKUKİ TESPİT',
+        mainTitle: 'Mirasçılık Belgesi (Veraset İlamı) Temini',
+        desc: 'Vefat eden murisin yasal mirasçılarının ve kanuni hisse paylarının resmi olarak belirlenmesi. Noterden veya soybağı durumuna göre Sulh Hukuk Mahkemesinden ilam alınır.',
+        time: 'Aynı Gün (1 - 2 Saat)',
+        role: 'Vekaletle Ön Başvuru & İlam Alımı'
+      },
+      {
+        num: '02', icon: '📊', title: 'Veraset Beyannamesi', place: 'Vergi Dairesi (GİB)',
+        tag: 'AŞAMA 02 · VERGİSEL İLİŞİK',
+        mainTitle: '7338 Sayılı Veraset & İntikal Vergisi Beyanı',
+        desc: 'Yasal 4 aylık süre içinde merhuma ait taşınmazların vergi dairesine beyan edilmesi, matrahın tespiti ve tapu müdürlüğüne hitaben ilişiği yoktur yazısının alınması.',
+        time: '1 - 3 İş Günü',
+        role: 'Beyanname Düzenleme & Harç Takibi'
+      },
+      {
+        num: '03', icon: '🏢', title: 'Rayiç & Borçsuzluk', place: 'İlçe Belediyesi',
+        tag: 'AŞAMA 03 · YEREL BELEDİYE',
+        mainTitle: 'Belediye Emlak Rayiç Değeri & Borç Kapatma',
+        desc: 'Taşınmazın bulunduğu belediyeden güncel tapu harcına esas rayiç bedel belgesinin çıkarılması, geçmiş dönem emlak vergisi borçlarının tasfiye edilmesi.',
+        time: 'Aynı Gün',
+        role: 'Ataşehir & Çevre Belediyelerde Saha Takibi'
+      },
+      {
+        num: '04', icon: '📜', title: 'Tapu Tescili', place: 'Tapu Müdürlüğü (Web-Tapu)',
+        tag: 'AŞAMA 04 · MÜLKİYET TESCİLİ',
+        mainTitle: 'Web-Tapu Başvurusu & Yeni Tapu Senetleri',
+        desc: 'Tüm belgelerin Web-Tapu sistemine yüklenmesi, SMS harç mesajının karşılanması ve mirasçılar adına yeni tescilli tapu senetlerinin teslim alınması.',
+        time: '1 - 2 İş Günü',
+        role: 'Web-Tapu Başvurusu & İmzaya Refakat'
+      }
+    ]
+  },
+  taksim: {
+    steps: [
+      {
+        num: '01', icon: '📜', title: 'Mirasçı Tespiti', place: 'Noter / Nüfus',
+        tag: 'AŞAMA 01 · HİSSEDAR TESPİTİ',
+        mainTitle: 'Tüm Yasal Mirasçıların Tespiti ve Rıza Beyanı',
+        desc: 'Miras taksim sözleşmesi yapılabilmesi için tüm hissedarların eksiksiz tespit edilmesi ve ortak uzlaşma şartlarının hukuki çerçeveye oturtulması.',
+        time: '1 İş Günü',
+        role: 'Hissedar Dosyası & Evrak İnceleme'
+      },
+      {
+        num: '02', icon: '⚖️', title: 'Taksim Sözleşmesi', place: 'Noterlik',
+        tag: 'AŞAMA 02 · RESMİ SÖZLEŞME',
+        mainTitle: 'Noter Onaylı Miras Taksim Sözleşmesi',
+        desc: 'Mirasçıların gayrimenkulleri aralarında nasıl paylaştıklarını gösteren resmi taksim sözleşmesinin tanzim edilmesi.',
+        time: '1 İş Günü',
+        role: 'Noter Süreç Takibi & Hazırlık'
+      },
+      {
+        num: '03', icon: '🏛️', title: 'Belediye & Vergi', place: 'Belediye / Vergi Dairesi',
+        tag: 'AŞAMA 03 · MALİ TEMİZLİK',
+        mainTitle: 'Rayiç Değer & Vergi Temizliği',
+        desc: 'Taksim edilecek her bağımsız bölüm için ilgili belediyelerden güncel rayiçlerin toplanması.',
+        time: '1 - 2 İş Günü',
+        role: 'Çoklu İlçe Belediye Evrak Temini'
+      },
+      {
+        num: '04', icon: '🔑', title: 'Müstakil Tapu', place: 'Tapu Müdürlüğü',
+        tag: 'AŞAMA 04 · AYRI TAPULAR',
+        mainTitle: 'Hisseli Mülkiyetten Müstakil Tapuya Geçiş',
+        desc: 'Taksim sözleşmesi gereğince tapu sicilinde her mirasçı adına müstakil tapuların tescil edilmesi.',
+        time: '2 - 3 İş Günü',
+        role: 'Web-Tapu Başvurusu & Tescil Takibi'
+      }
+    ]
+  },
+  satis: {
+    steps: [
+      {
+        num: '01', icon: '🔍', title: 'Kütük İnceleme', place: 'Tapu Sicil',
+        tag: 'AŞAMA 01 · GÜVENLİK KONTROLÜ',
+        mainTitle: 'Tapu Kaydı, Haciz & İpotek İncelemesi',
+        desc: 'Satışa engel olabilecek ipotek, haciz, aile konutu şerhi veya ihtiyati tedbir kararlarının güncel kütükten kontrolü.',
+        time: 'Aynı Gün (2 Saat)',
+        role: 'Resmi Kütük & Şerh Taraması'
+      },
+      {
+        num: '02', icon: '🏛️', title: 'Belediye Rayici', place: 'İlçe Belediyesi',
+        tag: 'AŞAMA 02 · RAYİÇ BELGESİ',
+        mainTitle: 'Satışa Esas Emlak Beyan Değeri',
+        desc: 'Harca esas güncel rayiç bedelin belediyeden alınması ve varsa emlak vergisi borçlarının kapatılması.',
+        time: 'Aynı Gün',
+        role: 'Hızlı Belediye Rayiç Temini'
+      },
+      {
+        num: '03', icon: '🤝', title: 'Web-Tapu & İmza', place: 'Tapu Müdürlüğü',
+        tag: 'AŞAMA 03 · DEVİR VE İMZA',
+        mainTitle: 'Web-Tapu Satış Başvurusu & Resmi İmza',
+        desc: 'Satıcı ve alıcı adına Web-Tapu kaydının açılması, döner sermaye ve tapu harçlarının yatırılması, imza saatinde hazır bulunma.',
+        time: '1 İş Günü',
+        role: 'Başvuru, Harç Mesajı & İmzaya Refakat'
+      },
+      {
+        num: '04', icon: '✅', title: 'Teslim & Bildirim', place: 'Belediye',
+        tag: 'AŞAMA 04 · SATIŞ SONRASI',
+        mainTitle: 'Yeni Tapu Teslimi & Belediye Bildirimi',
+        desc: 'Satış sonrası yeni malikin belediyeye emlak beyanında bulunması için bilgilendirme desteği.',
+        time: 'Aynı Gün',
+        role: 'Satış Sonrası Destek'
+      }
+    ]
+  },
+  ipotek: {
+    steps: [
+      {
+        num: '01', icon: '🏦', title: 'Fek Yazısı', place: 'Banka / Alacaklı',
+        tag: 'AŞAMA 01 · BORÇ KAPANMASI',
+        mainTitle: 'Banka İpotek Terkin (Fek) Yazısı Alımı',
+        desc: 'Kredi veya borç bittikten sonra ilgili bankanın genel müdürlüğünden tapuya doğrudan fek yazısının gönderilmesinin sağlanması.',
+        time: '1 - 2 İş Günü',
+        role: 'Banka Şube ve Merkez İrtibatı'
+      },
+      {
+        num: '02', icon: '📑', title: 'Sistem Onayı', place: 'Web-Tapu',
+        tag: 'AŞAMA 02 · ELEKTRONİK ONAY',
+        mainTitle: 'Bankadan Tapuya Elektronik Fek Gönderimi',
+        desc: 'Bankanın e-haciz / e-terkin sisteminden ilgili tapu müdürlüğüne fek bildiriminin düşüp düşmediğinin kontrolü.',
+        time: 'Aynı Gün',
+        role: 'Elektronik Sistem Takibi'
+      },
+      {
+        num: '03', icon: '🔓', title: 'Tapuda Terkin', place: 'Tapu Müdürlüğü',
+        tag: 'AŞAMA 03 · TERKİN İŞLEMİ',
+        mainTitle: 'Tapu Kütüğünden Şerhin Resmi Olarak Silinmesi',
+        desc: 'Tapu kütüğündeki ipotek veya haciz şerhinin silinmesi ve tertemiz tescil kaydının temini.',
+        time: '1 İş Günü',
+        role: 'Terkin Harcı Ödeme & Temiz Belge Alımı'
+      },
+      {
+        num: '04', icon: '📄', title: 'Temiz Tapu', place: 'Tapu Sicil',
+        tag: 'AŞAMA 04 · ŞERHSİZ MÜLKİYET',
+        mainTitle: 'Şerhsiz Güncel Tapu Kaydının Teslimi',
+        desc: 'Taşınmaz üzerinde hiçbir borç veya kayıt kalmadığını gösteren resmi takyidat belgesinin teslimi.',
+        time: 'Aynı Gün',
+        role: 'Güncel Temiz Belge Temini'
+      }
+    ]
+  }
+};
+
+let currentFlow = 'intikal';
+let currentStepIdx = 0;
+
+function selectFlowTab(flowKey) {
+  currentFlow = flowKey;
+  currentStepIdx = 0;
+  
+  // Update Tab buttons
+  document.querySelectorAll('.flow-tab-btn').forEach(btn => btn.classList.remove('active'));
+  if (window.event && window.event.currentTarget) {
+    window.event.currentTarget.classList.add('active');
+  }
+  
+  // Render steps in pipeline
+  const data = FLOW_DATA[flowKey];
+  for (let i = 0; i < 4; i++) {
+    const step = data.steps[i];
+    const iconEl = document.getElementById('node-icon-' + (i + 1));
+    const titleEl = document.getElementById('node-title-' + (i + 1));
+    const placeEl = document.getElementById('node-place-' + (i + 1));
+    if (iconEl) iconEl.innerText = step.icon;
+    if (titleEl) titleEl.innerText = step.title;
+    if (placeEl) placeEl.innerText = step.place;
+  }
+  
+  updateNodeHud(0);
+}
+
+function selectNodeStep(idx) {
+  currentStepIdx = idx;
+  updateNodeHud(idx);
+}
+
+function updateNodeHud(idx) {
+  // Update active state in pipeline
+  document.querySelectorAll('.node-item').forEach((item, i) => {
+    if (i === idx) item.classList.add('active');
+    else item.classList.remove('active');
+  });
+
+  const step = FLOW_DATA[currentFlow].steps[idx];
+  const tagEl = document.getElementById('hudStepTag');
+  const titleEl = document.getElementById('hudStepTitle');
+  const descEl = document.getElementById('hudStepDesc');
+  const timeEl = document.getElementById('hudSpecTime');
+  const roleEl = document.getElementById('hudSpecRole');
+  
+  if (tagEl) tagEl.innerText = step.tag;
+  if (titleEl) titleEl.innerText = step.mainTitle;
+  if (descEl) descEl.innerText = step.desc;
+  if (timeEl) timeEl.innerText = step.time;
+  if (roleEl) roleEl.innerText = step.role;
+
+  // Update WA Link
+  const waBtn = document.getElementById('hudWaBtn');
+  if (waBtn) {
+    const rawMsg = 'Merhaba Nokta Danışmanlık, ' + step.title + ' aşamasındayım (' + step.place + '). Süreç takibi için destek almak istiyorum.';
+    waBtn.href = 'https://wa.me/905538525308?text=' + encodeURIComponent(rawMsg);
+  }
+}
+
+function switchWorld(mode) {
+  const tabNokta = document.getElementById('tab-nokta');
+  const tabCile = document.getElementById('tab-cile');
+  const contentNokta = document.getElementById('world-nokta-content');
+  const contentCile = document.getElementById('world-cile-content');
+
+  if (mode === 'nokta') {
+    if (tabNokta) tabNokta.className = 'two-worlds-tab active-nokta';
+    if (tabCile) tabCile.className = 'two-worlds-tab';
+    if (contentNokta) contentNokta.style.display = 'block';
+    if (contentCile) contentCile.style.display = 'none';
+  } else {
+    if (tabCile) tabCile.className = 'two-worlds-tab active-cile';
+    if (tabNokta) tabNokta.className = 'two-worlds-tab';
+    if (contentNokta) contentNokta.style.display = 'none';
+    if (contentCile) contentCile.style.display = 'block';
+  }
+}
+
+// Magnetic Button Physics
+document.addEventListener('DOMContentLoaded', () => {
+  const magneticBtns = document.querySelectorAll('.magnetic-btn');
+  magneticBtns.forEach(btn => {
+    btn.addEventListener('mousemove', (e) => {
+      const rect = btn.getBoundingClientRect();
+      const x = e.clientX - rect.left - rect.width / 2;
+      const y = e.clientY - rect.top - rect.height / 2;
+      btn.style.transform = 'translate(' + (x * 0.22) + 'px, ' + (y * 0.22) + 'px)';
+    });
+    btn.addEventListener('mouseleave', () => {
+      btn.style.transform = 'translate(0px, 0px)';
+    });
+  });
+
+  // ========================================================
+  // DUAL STORY CAROUSEL (Sabit Kutular: Yazı Söner -> Yeni Yazı Gelir)
+  // ========================================================
+  const dualCanvas = document.getElementById('dualStoryCanvas');
+  const chaosStage = document.getElementById('chaosFadeStage');
+  const comfortStage = document.getElementById('comfortFadeStage');
+  const chaosSlides = document.querySelectorAll('#cardChaos .card-story-slide');
+  const comfortSlides = document.querySelectorAll('#cardComfort .card-story-slide');
+  const storyBtns = document.querySelectorAll('.story-nav-btn');
+
+  if (dualCanvas && chaosSlides.length && comfortSlides.length && storyBtns.length) {
+    let currentStory = 0;
+    const totalStories = storyBtns.length;
+    const storyDuration = 4000; // 4000ms = 4 saniye
+    let storyStart = Date.now();
+    let storyElapsed = 0;
+    let isStoryPaused = false;
+    let isTransitioning = false;
+    let storyAnimId = null;
+
+    function goToStory(targetIndex, immediate = false) {
+      if (isTransitioning && !immediate) return;
+      const nextIndex = (targetIndex + totalStories) % totalStories;
+      if (nextIndex === currentStory && !immediate) return;
+
+      // İlerleme çizgilerini güncelle
+      storyBtns.forEach((btn, i) => {
+        const fill = btn.querySelector('.story-bar-fill');
+        if (i === nextIndex) {
+          btn.classList.add('active');
+        } else {
+          btn.classList.remove('active');
+          if (fill) fill.style.width = i < nextIndex ? '100%' : '0%';
+        }
+      });
+
+      if (immediate) {
+        currentStory = nextIndex;
+        chaosSlides.forEach((slide, i) => {
+          slide.style.display = (i === currentStory) ? 'flex' : 'none';
+        });
+        comfortSlides.forEach((slide, i) => {
+          slide.style.display = (i === currentStory) ? 'flex' : 'none';
+        });
+        storyStart = Date.now();
+        storyElapsed = 0;
+        return;
+      }
+
+      isTransitioning = true;
+
+      // 1. AŞAMA: Kutular sabit durur, içindeki yazılar yumuşacık söner (opacity: 0)
+      if (chaosStage) chaosStage.classList.add('fading-out');
+      if (comfortStage) comfortStage.classList.add('fading-out');
+
+      // 2. AŞAMA: Yazılar tamamen söndüğünde içeriği değiştir ve yeni yazıları kadife gibi yak (opacity: 1)
+      setTimeout(() => {
+        currentStory = nextIndex;
+
+        chaosSlides.forEach((slide, i) => {
+          slide.style.display = (i === currentStory) ? 'flex' : 'none';
+        });
+        comfortSlides.forEach((slide, i) => {
+          slide.style.display = (i === currentStory) ? 'flex' : 'none';
+        });
+
+        requestAnimationFrame(() => {
+          if (chaosStage) chaosStage.classList.remove('fading-out');
+          if (comfortStage) comfortStage.classList.remove('fading-out');
+          storyStart = Date.now();
+          storyElapsed = 0;
+          isTransitioning = false;
+        });
+      }, 300); // 300ms pürüzsüz sönme süresi
+    }
+
+    function storyTick() {
+      if (!isStoryPaused && !isTransitioning) {
+        storyElapsed = Date.now() - storyStart;
+        const progress = Math.min(100, (storyElapsed / storyDuration) * 100);
+        const activeFill = storyBtns[currentStory]?.querySelector('.story-bar-fill');
+        if (activeFill) {
+          activeFill.style.width = progress + '%';
+        }
+
+        if (storyElapsed >= storyDuration) {
+          goToStory(currentStory + 1);
+        }
+      }
+      storyAnimId = requestAnimationFrame(storyTick);
+    }
+
+    // Hover & Touch to Pause
+    dualCanvas.addEventListener('mouseenter', () => { isStoryPaused = true; });
+    dualCanvas.addEventListener('mouseleave', () => {
+      isStoryPaused = false;
+      storyStart = Date.now() - storyElapsed;
+    });
+    dualCanvas.addEventListener('touchstart', () => { isStoryPaused = true; }, { passive: true });
+    dualCanvas.addEventListener('touchend', () => {
+      isStoryPaused = false;
+      storyStart = Date.now() - storyElapsed;
+    }, { passive: true });
+
+    // Interactive button clicks
+    storyBtns.forEach((btn, idx) => {
+      btn.addEventListener('click', () => {
+        goToStory(idx);
+      });
+    });
+
+    // Initialize first story immediately
+    goToStory(0, true);
+    storyAnimId = requestAnimationFrame(storyTick);
+  }
+
+  // ========================================================
+  // NOTARY TYPEWRITER EFFECT (DAKTİLO YAZI EFEKTİ)
+  // ========================================================
+  const typeTextElem = document.getElementById('heroTypewriterText');
+  if (typeTextElem) {
+    const phrase = "nasıl yönetmek istersiniz?";
+    typeTextElem.textContent = "";
+    let charI = 0;
+    setTimeout(() => {
+      const typeTimer = setInterval(() => {
+        if (charI < phrase.length) {
+          typeTextElem.textContent += phrase.charAt(charI);
+          charI++;
+        } else {
+          clearInterval(typeTimer);
+        }
+      }, 65);
+    }, 450);
+  }
+});
+</script>
+
+</body>
+</html>
