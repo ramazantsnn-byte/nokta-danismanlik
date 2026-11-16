@@ -1194,7 +1194,7 @@ h1, h2, h3, h4 {
   cursor: pointer;
   z-index: 10;
   transition: all 0.2s cubic-bezier(0.2, 0.8, 0.2, 1);
-  opacity: 0.85;
+  opacity: 1;
 }
 
 .hero-stage-nav:hover {
@@ -2670,9 +2670,88 @@ h1, h2, h3, h4 {
   }
 }
 
+/* ========================================================
+   OPTION 2: LIVE CADASTRAL RADAR & SCANLINE ENGINE
+======================================================== */
+.cadastral-radar-backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+  background: transparent;
+}
+
+#cadastralCanvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+/* Moving Laser Scan Beam */
+.laser-scanline {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 120px;
+  background: linear-gradient(180deg, 
+    transparent 0%, 
+    rgba(197, 48, 48, 0.015) 60%, 
+    rgba(197, 48, 48, 0.08) 92%, 
+    rgba(212, 175, 55, 0.35) 99%,
+    rgba(197, 48, 48, 0.6) 100%
+  );
+  box-shadow: 0 4px 15px rgba(197, 48, 48, 0.15);
+  pointer-events: none;
+  animation: laserScanMove 7s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+  will-change: transform;
+}
+
+@keyframes laserScanMove {
+  0% { transform: translateY(-130px); opacity: 0; }
+  5% { opacity: 1; }
+  90% { opacity: 0.9; }
+  100% { transform: translateY(105vh); opacity: 0; }
+}
+
+/* Soft Blueprint Corner Watermarks */
+.cadastral-corner-coord {
+  position: absolute;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: rgba(28, 25, 23, 0.25);
+  letter-spacing: 0.12em;
+  pointer-events: none;
+}
+.coord-top-left { top: 75px; left: 24px; }
+.coord-bottom-right { bottom: 30px; right: 28px; }
+
+@media (max-width: 768px) {
+  .laser-scanline {
+    height: 80px;
+    animation-duration: 6s;
+  }
+  .cadastral-corner-coord { display: none; }
+}
 </style>
 </head>
 <body>
+
+<!-- OPTION 2: Living Cadastral Radar & Laser Scan Engine -->
+<div class="cadastral-radar-backdrop" aria-hidden="true">
+  <canvas id="cadastralCanvas"></canvas>
+  <div class="laser-scanline"></div>
+  <div class="cadastral-corner-coord coord-top-left">RADAR: ATAŞEHİR TKGM · 40.9930° N, 29.1170° E</div>
+  <div class="cadastral-corner-coord coord-bottom-right">SYS: TAPU_VERASET_TAKİP · v2.6 · LIVE</div>
+</div>
 
 <!-- ========================================================
      1. TOP STRIP
@@ -4889,5 +4968,186 @@ function closeKvkkModal() {
 }
 </script>
 
+<script>
+// ========================================================
+// OPTION 2: CADASTRAL CONSTELLATION & SCANNER CANVAS
+// ========================================================
+(function() {
+  const canvas = document.getElementById('cadastralCanvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  let width, height;
+  let dpr = window.devicePixelRatio || 1;
+
+  // Cadastral Data Nodes
+  const NODE_LABELS = [
+    "ADA: 1420 / 8", "TKGM ONAY", "VERASET İLAMI", "MİRAS İNTİKALİ", 
+    "WEB TAPU", "RAYİÇ BEDEL", "40.993° N", "PARSEL 892", 
+    "İPOTEK TERKİNİ", "CİNS TAHSİSİ", "NOTER TESCİL", "29.117° E",
+    "DEVRİ TAMAM", "BAŞVURU NO: 2026", "ATAŞEHİR DİJİTAL"
+  ];
+
+  let nodes = [];
+  let ripples = [];
+  let mouse = { x: -1000, y: -1000, radius: 140 };
+
+  function resize() {
+    width = window.innerWidth;
+    height = window.innerHeight;
+    canvas.width = width * dpr;
+    canvas.height = height * dpr;
+    canvas.style.width = width + 'px';
+    canvas.style.height = height + 'px';
+    ctx.scale(dpr, dpr);
+    initNodes();
+  }
+
+  function initNodes() {
+    nodes = [];
+    const count = width < 768 ? 14 : 26;
+    for (let i = 0; i < count; i++) {
+      nodes.push({
+        x: Math.random() * width,
+        y: Math.random() * height,
+        vx: (Math.random() - 0.5) * 0.45,
+        vy: (Math.random() - 0.5) * 0.45,
+        radius: Math.random() * 2 + 2,
+        label: NODE_LABELS[i % NODE_LABELS.length],
+        pulse: Math.random() * Math.PI * 2,
+        isKeyNode: i % 4 === 0
+      });
+    }
+  }
+
+  window.addEventListener('resize', resize);
+  window.addEventListener('mousemove', function(e) {
+    mouse.x = e.clientX;
+    mouse.y = e.clientY;
+  });
+
+  // Spawn periodic radar ripple
+  setInterval(function() {
+    if (nodes.length > 0) {
+      const target = nodes[Math.floor(Math.random() * nodes.length)];
+      ripples.push({
+        x: target.x,
+        y: target.y,
+        r: 2,
+        maxR: 45,
+        opacity: 0.5
+      });
+    }
+  }, 1800);
+
+  function drawGrid() {
+    const step = width < 768 ? 90 : 140;
+    ctx.strokeStyle = 'rgba(28, 25, 23, 0.04)';
+    ctx.lineWidth = 1;
+    ctx.fillStyle = 'rgba(197, 48, 48, 0.15)';
+
+    // Cross markers
+    for (let x = step; x < width; x += step) {
+      for (let y = step; y < height; y += step) {
+        ctx.beginPath();
+        ctx.moveTo(x - 4, y);
+        ctx.lineTo(x + 4, y);
+        ctx.moveTo(x, y - 4);
+        ctx.lineTo(x, y + 4);
+        ctx.stroke();
+      }
+    }
+  }
+
+  function animate() {
+    ctx.clearRect(0, 0, width, height);
+
+    drawGrid();
+
+    // Draw ripples
+    for (let i = ripples.length - 1; i >= 0; i--) {
+      const rp = ripples[i];
+      rp.r += 0.65;
+      rp.opacity -= 0.009;
+      if (rp.opacity <= 0 || rp.r >= rp.maxR) {
+        ripples.splice(i, 1);
+        continue;
+      }
+      ctx.beginPath();
+      ctx.arc(rp.x, rp.y, rp.r, 0, Math.PI * 2);
+      ctx.strokeStyle = `rgba(197, 48, 48, ${rp.opacity})`;
+      ctx.lineWidth = 1.2;
+      ctx.stroke();
+    }
+
+    // Update and draw connections
+    const maxDist = width < 768 ? 100 : 150;
+    for (let i = 0; i < nodes.length; i++) {
+      for (let j = i + 1; j < nodes.length; j++) {
+        const dx = nodes[i].x - nodes[j].x;
+        const dy = nodes[i].y - nodes[j].y;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < maxDist) {
+          const alpha = (1 - dist / maxDist) * 0.18;
+          ctx.beginPath();
+          ctx.moveTo(nodes[i].x, nodes[i].y);
+          ctx.lineTo(nodes[j].x, nodes[j].y);
+          ctx.strokeStyle = `rgba(197, 48, 48, ${alpha})`;
+          ctx.lineWidth = 1;
+          ctx.stroke();
+        }
+      }
+    }
+
+    // Draw nodes & labels
+    for (let i = 0; i < nodes.length; i++) {
+      const n = nodes[i];
+      n.x += n.vx;
+      n.y += n.vy;
+
+      // Bounce boundaries
+      if (n.x < 10 || n.x > width - 10) n.vx *= -1;
+      if (n.y < 10 || n.y > height - 10) n.vy *= -1;
+
+      // Mouse repel / influence
+      const mdx = n.x - mouse.x;
+      const mdy = n.y - mouse.y;
+      const mdist = Math.sqrt(mdx * mdx + mdy * mdy);
+      if (mdist < mouse.radius) {
+        const force = (1 - mdist / mouse.radius) * 1.5;
+        n.x += (mdx / mdist) * force;
+        n.y += (mdy / mdist) * force;
+      }
+
+      n.pulse += 0.03;
+      const pScale = Math.sin(n.pulse) * 0.5 + 1;
+
+      // Node point
+      ctx.beginPath();
+      ctx.arc(n.x, n.y, n.radius * pScale, 0, Math.PI * 2);
+      ctx.fillStyle = n.isKeyNode ? 'rgba(197, 48, 48, 0.45)' : 'rgba(28, 25, 23, 0.28)';
+      ctx.fill();
+
+      // Outer halo for key nodes
+      if (n.isKeyNode) {
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.radius * 2.8, 0, Math.PI * 2);
+        ctx.strokeStyle = 'rgba(212, 175, 55, 0.35)';
+        ctx.lineWidth = 1;
+        ctx.stroke();
+
+        // Technical badge
+        ctx.font = '600 9px ui-monospace, monospace';
+        ctx.fillStyle = 'rgba(28, 25, 23, 0.38)';
+        ctx.fillText(n.label, n.x + 8, n.y + 3);
+      }
+    }
+
+    requestAnimationFrame(animate);
+  }
+
+  resize();
+  requestAnimationFrame(animate);
+})();
+</script>
 </body>
 </html>
